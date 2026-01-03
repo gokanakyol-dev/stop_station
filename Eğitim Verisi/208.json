@@ -1,0 +1,2915 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421728.061649576,
+                    5013707.312652839
+                ]
+            },
+            "properties": {
+                "id": 45961,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "HANİFE HATUN CAMİİ",
+                "durak_id": 554,
+                "durak_kod": 1502,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 2,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422254.046243574,
+                    5013627.356873614
+                ]
+            },
+            "properties": {
+                "id": 45489,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "SAHİL PERONU BAŞLANGIÇ",
+                "durak_id": 2412,
+                "durak_kod": 1061,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 1,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410822.981692486,
+                    5013336.748233983
+                ]
+            },
+            "properties": {
+                "id": 30642,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "BATIKENT SOKAK",
+                "durak_id": 1751,
+                "durak_kod": 4319,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 25,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410610.36146507,
+                    5013543.566283076
+                ]
+            },
+            "properties": {
+                "id": 36067,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "ÖĞRETMENLER SİTESİ",
+                "durak_id": 1108,
+                "durak_kod": 4317,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 26,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410373.028310699,
+                    5013490.75497914
+                ]
+            },
+            "properties": {
+                "id": 38805,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI MERKEZ",
+                "durak_id": 1796,
+                "durak_kod": 4170,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 27,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410433.252155218,
+                    5013318.7514364
+                ]
+            },
+            "properties": {
+                "id": 37406,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TOKİ İLKÖĞRETİM OKULU ALTI",
+                "durak_id": 5137,
+                "durak_kod": 4646,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 28,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410542.122617214,
+                    5013246.764579258
+                ]
+            },
+            "properties": {
+                "id": 38946,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TOKİ İLK ÖĞRETİM OKULU",
+                "durak_id": 236,
+                "durak_kod": 4311,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 29,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410358.111498932,
+                    5013197.052655081
+                ]
+            },
+            "properties": {
+                "id": 37273,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TOKİ İLKÖĞRETİM OKULU ÜSTÜ",
+                "durak_id": 294,
+                "durak_kod": 4309,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 30,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410325.049610167,
+                    5013057.506594326
+                ]
+            },
+            "properties": {
+                "id": 29482,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TALEBE YURDU",
+                "durak_id": 2416,
+                "durak_kod": 4594,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 31,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410079.590132968,
+                    5012890.525991519
+                ]
+            },
+            "properties": {
+                "id": 34145,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI KORUPARK",
+                "durak_id": 1359,
+                "durak_kod": 4308,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 32,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410248.016522539,
+                    5012663.956190916
+                ]
+            },
+            "properties": {
+                "id": 31497,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI 4",
+                "durak_id": 954,
+                "durak_kod": 4174,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 33,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410143.487520684,
+                    5012432.229129183
+                ]
+            },
+            "properties": {
+                "id": 31205,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI 5",
+                "durak_id": 828,
+                "durak_kod": 4306,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 34,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410336.070239756,
+                    5012402.728944787
+                ]
+            },
+            "properties": {
+                "id": 37505,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI 6",
+                "durak_id": 1037,
+                "durak_kod": 4305,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 35,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410231.42991841,
+                    5012159.50333603
+                ]
+            },
+            "properties": {
+                "id": 39790,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI MEVLANA CAMİİ YOL AYRIMI",
+                "durak_id": 2259,
+                "durak_kod": 4177,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 36,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410512.066354699,
+                    5011992.390662146
+                ]
+            },
+            "properties": {
+                "id": 39643,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI 7",
+                "durak_id": 1793,
+                "durak_kod": 4303,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 37,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410364.67934889,
+                    5011716.137439355
+                ]
+            },
+            "properties": {
+                "id": 41292,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI 8",
+                "durak_id": 3252,
+                "durak_kod": 4302,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 38,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410100.518197238,
+                    5011504.196214137
+                ]
+            },
+            "properties": {
+                "id": 33473,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "BAHÇELİEVLER YOL - İŞ SİTESİ",
+                "durak_id": 3312,
+                "durak_kod": 4301,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 39,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409881.330119865,
+                    5011355.972841606
+                ]
+            },
+            "properties": {
+                "id": 34134,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "BAHÇELİEVLER YOL - İŞ SİTESİ 2",
+                "durak_id": 1912,
+                "durak_kod": 4299,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 40,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409461.09904212,
+                    5011329.425610488
+                ]
+            },
+            "properties": {
+                "id": 39835,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TOKİ 1",
+                "durak_id": 2741,
+                "durak_kod": 4298,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 41,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409259.388124803,
+                    5011021.040587076
+                ]
+            },
+            "properties": {
+                "id": 37132,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TOKİ 2",
+                "durak_id": 235,
+                "durak_kod": 4297,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 42,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409079.495827681,
+                    5010797.758826578
+                ]
+            },
+            "properties": {
+                "id": 33777,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TOKİ 2. ETAP YOL AYRIMI",
+                "durak_id": 1697,
+                "durak_kod": 4296,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 43,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4408483.157315501,
+                    5010806.0175058
+                ]
+            },
+            "properties": {
+                "id": 34716,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI TOKİ 2. ETAP",
+                "durak_id": 4113,
+                "durak_kod": 4184,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 44,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4408169.236351464,
+                    5010068.810540782
+                ]
+            },
+            "properties": {
+                "id": 31020,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI ÇADIRDAĞI YOLU 1",
+                "durak_id": 3541,
+                "durak_kod": 4294,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 45,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411242.099575323,
+                    5012434.146644269
+                ]
+            },
+            "properties": {
+                "id": 36959,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI 11",
+                "durak_id": 2053,
+                "durak_kod": 4596,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 21,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411235.643044856,
+                    5012483.85466728
+                ]
+            },
+            "properties": {
+                "id": 40675,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YILDIZLI YOL AYRIMI",
+                "durak_id": 561,
+                "durak_kod": 4325,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 22,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411215.04893906,
+                    5012909.702063373
+                ]
+            },
+            "properties": {
+                "id": 33130,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "ARMADA REZİDANS",
+                "durak_id": 274,
+                "durak_kod": 4322,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 23,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411062.2072782,
+                    5013204.723321156
+                ]
+            },
+            "properties": {
+                "id": 40466,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "CANIM SİTESİ",
+                "durak_id": 2691,
+                "durak_kod": 4321,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 24,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418725.886302372,
+                    5012813.969589302
+                ]
+            },
+            "properties": {
+                "id": 38476,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "AYASOFYA",
+                "durak_id": 55,
+                "durak_kod": 2948,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 9,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416909.374851608,
+                    5011995.193057532
+                ]
+            },
+            "properties": {
+                "id": 36429,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "SARAYBOSNA PARKI 1",
+                "durak_id": 354,
+                "durak_kod": 1133,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 13,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416286.653620111,
+                    5011723.364465858
+                ]
+            },
+            "properties": {
+                "id": 31156,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "BEŞİRLİ BORSA İSTANBUL ORTAOKULU 2",
+                "durak_id": 644,
+                "durak_kod": 1047,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 14,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420253.078396565,
+                    5013233.340859543
+                ]
+            },
+            "properties": {
+                "id": 41270,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "NUMUNE HASTANESİ 2",
+                "durak_id": 1013,
+                "durak_kod": 1127,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 5,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4414970.968558425,
+                    5011744.308124026
+                ]
+            },
+            "properties": {
+                "id": 36458,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "AKYAZI STADI YOL AYRIMI",
+                "durak_id": 1315,
+                "durak_kod": 2867,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 17,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411241.765616851,
+                    5012938.023715612
+                ]
+            },
+            "properties": {
+                "id": 31858,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "SERA GÖLÜ CADDESİ GİRİŞ",
+                "durak_id": 1322,
+                "durak_kod": 4461,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 20,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415426.153956278,
+                    5011498.886681174
+                ]
+            },
+            "properties": {
+                "id": 38778,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "BEŞİRLİ SON DURAK",
+                "durak_id": 1369,
+                "durak_kod": 1049,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 16,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4413178.27947869,
+                    5011860.089020231
+                ]
+            },
+            "properties": {
+                "id": 34183,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "PAPARA PARK STADYUMU",
+                "durak_id": 1952,
+                "durak_kod": 1578,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 18,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419537.071431784,
+                    5012990.241978239
+                ]
+            },
+            "properties": {
+                "id": 31779,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "MEHMET ALİ TUNA İLKOKULU",
+                "durak_id": 2404,
+                "durak_kod": 1124,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 7,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419208.233655979,
+                    5012924.157896394
+                ]
+            },
+            "properties": {
+                "id": 31607,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "KAHRAMANMARAŞ CADDESİ SONU",
+                "durak_id": 2514,
+                "durak_kod": 2872,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 8,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4412175.513505624,
+                    5012892.443597003
+                ]
+            },
+            "properties": {
+                "id": 33811,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "YENİ KARAYOLLARI",
+                "durak_id": 2645,
+                "durak_kod": 1738,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 19,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417446.491394686,
+                    5012225.434722187
+                ]
+            },
+            "properties": {
+                "id": 37121,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "ORMAN BÖLGE MÜDÜRLÜĞÜ 2",
+                "durak_id": 2792,
+                "durak_kod": 1132,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 12,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415827.460720588,
+                    5011570.565620804
+                ]
+            },
+            "properties": {
+                "id": 34776,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "ÇEVRE ŞEHİRCİLİK MÜDÜRLÜĞÜ 2",
+                "durak_id": 3271,
+                "durak_kod": 1048,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 15,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420810.455086967,
+                    5013316.243688562
+                ]
+            },
+            "properties": {
+                "id": 33173,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "VALİLİK 1",
+                "durak_id": 3343,
+                "durak_kod": 1016,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 4,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419819.377660435,
+                    5013075.650419161
+                ]
+            },
+            "properties": {
+                "id": 32030,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "ŞEHİT ÇOŞKUN DAVULCU ÇEŞMESİ",
+                "durak_id": 3416,
+                "durak_kod": 1128,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 6,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421250.612353564,
+                    5013546.516643714
+                ]
+            },
+            "properties": {
+                "id": 30375,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "ŞENOL GÜNEŞ CADDESİ",
+                "durak_id": 3618,
+                "durak_kod": 1015,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 3,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418385.471299527,
+                    5012632.537748747
+                ]
+            },
+            "properties": {
+                "id": 35350,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "MERKEZ BANKASI 2",
+                "durak_id": 3973,
+                "durak_kod": 1130,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 10,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418029.026290007,
+                    5012475.889566374
+                ]
+            },
+            "properties": {
+                "id": 32133,
+                "hat_id": 59,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 93,
+                "ad": "TOKLU SAHİL CAMİİ 2",
+                "durak_id": 4343,
+                "durak_kod": 1131,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 11,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421756.782078201,
+                    5013635.02787926
+                ]
+            },
+            "properties": {
+                "id": 45907,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "HANİFE HATUN CAMİİ 2",
+                "durak_id": 148,
+                "durak_kod": 1062,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 51,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4413246.295687565,
+                    5011767.169210849
+                ]
+            },
+            "properties": {
+                "id": 45832,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "PAPARA PARK STADYUMU KARŞISI 2",
+                "durak_id": 810,
+                "durak_kod": 2862,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 30,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409267.069169668,
+                    5011013.07668446
+                ]
+            },
+            "properties": {
+                "id": 35957,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TOKİ 2",
+                "durak_id": 986,
+                "durak_kod": 4182,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 4,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411311.228979105,
+                    5012416.889022126
+                ]
+            },
+            "properties": {
+                "id": 31806,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI 11",
+                "durak_id": 1059,
+                "durak_kod": 4254,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 24,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410554.367761201,
+                    5013244.404363459
+                ]
+            },
+            "properties": {
+                "id": 29903,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TOKİ İLK ÖĞRETİM OKULU",
+                "durak_id": 1160,
+                "durak_kod": 4171,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 17,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410108.978478538,
+                    5011496.821863584
+                ]
+            },
+            "properties": {
+                "id": 39657,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "BAHÇELİEVLER YOL - İŞ SİTESİ",
+                "durak_id": 1372,
+                "durak_kod": 4180,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 7,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410382.267828435,
+                    5013480.281263014
+                ]
+            },
+            "properties": {
+                "id": 39422,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI MERKEZ",
+                "durak_id": 1815,
+                "durak_kod": 4312,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 19,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410516.407814841,
+                    5012000.945345331
+                ]
+            },
+            "properties": {
+                "id": 30218,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI 7",
+                "durak_id": 2315,
+                "durak_kod": 4178,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 9,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410248.573119992,
+                    5012653.04085208
+                ]
+            },
+            "properties": {
+                "id": 30565,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI 4",
+                "durak_id": 2541,
+                "durak_kod": 4307,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 13,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410085.824024453,
+                    5012879.16787449
+                ]
+            },
+            "properties": {
+                "id": 30827,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI KORUPARK",
+                "durak_id": 2906,
+                "durak_kod": 4173,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 14,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410140.593213923,
+                    5012440.046693053
+                ]
+            },
+            "properties": {
+                "id": 40855,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI 5",
+                "durak_id": 3460,
+                "durak_kod": 4175,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 12,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410361.562403147,
+                    5013183.776516564
+                ]
+            },
+            "properties": {
+                "id": 36802,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TOKİ İLKÖĞRETİM OKULU ÜSTÜ",
+                "durak_id": 3650,
+                "durak_kod": 4310,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 16,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409885.003663061,
+                    5011343.879093997
+                ]
+            },
+            "properties": {
+                "id": 33902,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "BAHÇELİEVLER YOL - İŞ SİTESİ 2",
+                "durak_id": 3704,
+                "durak_kod": 4300,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 6,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411219.167760218,
+                    5012485.329686683
+                ]
+            },
+            "properties": {
+                "id": 33901,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI YOL AYRIMI",
+                "durak_id": 3870,
+                "durak_kod": 4324,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 23,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410600.899308354,
+                    5013534.567688664
+                ]
+            },
+            "properties": {
+                "id": 31037,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "ÖĞRETMENLER SİTESİ",
+                "durak_id": 4253,
+                "durak_kod": 4316,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 20,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410377.48109033,
+                    5011718.202303522
+                ]
+            },
+            "properties": {
+                "id": 30746,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI 8",
+                "durak_id": 4280,
+                "durak_kod": 4179,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 8,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410350.764412541,
+                    5013070.930071229
+                ]
+            },
+            "properties": {
+                "id": 30839,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TALEBE YURDU",
+                "durak_id": 4319,
+                "durak_kod": 4172,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 15,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410439.15208823,
+                    5013338.813442394
+                ]
+            },
+            "properties": {
+                "id": 39664,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TOKİ İLKÖĞRETİM OKULU ALTI",
+                "durak_id": 5032,
+                "durak_kod": 4647,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 18,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4408182.59469036,
+                    5010051.704581312
+                ]
+            },
+            "properties": {
+                "id": 39692,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI ÇADIRDAĞI YOLU 1",
+                "durak_id": 4208,
+                "durak_kod": 4185,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 1,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4408477.813979943,
+                    5010794.809299986
+                ]
+            },
+            "properties": {
+                "id": 32915,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TOKİ 2. ETAP",
+                "durak_id": 1074,
+                "durak_kod": 4295,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 2,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409089.514581853,
+                    5010792.449679356
+                ]
+            },
+            "properties": {
+                "id": 35404,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TOKİ 2. ETAP YOL AYRIMI",
+                "durak_id": 2650,
+                "durak_kod": 4183,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 3,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422273.861112936,
+                    5013592.247348111
+                ]
+            },
+            "properties": {
+                "id": 46179,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "SAHİL PERON",
+                "durak_id": 584,
+                "durak_kod": 1451,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 52,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4409464.104668372,
+                    5011315.562085271
+                ]
+            },
+            "properties": {
+                "id": 33200,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI TOKİ 1",
+                "durak_id": 516,
+                "durak_kod": 4181,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 5,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410241.2260336,
+                    5012161.273300287
+                ]
+            },
+            "properties": {
+                "id": 32535,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI MEVLANA CAMİİ YOL AYRIMI",
+                "durak_id": 255,
+                "durak_kod": 4304,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 10,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410339.298504989,
+                    5012410.398984119
+                ]
+            },
+            "properties": {
+                "id": 34932,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI 6",
+                "durak_id": 128,
+                "durak_kod": 4176,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 11,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4410810.291270535,
+                    5013325.537110264
+                ]
+            },
+            "properties": {
+                "id": 38071,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "BATIKENT SOKAK",
+                "durak_id": 717,
+                "durak_kod": 4318,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 21,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411198.684973913,
+                    5012942.891507899
+                ]
+            },
+            "properties": {
+                "id": 32119,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "ARMADA REZİDANS",
+                "durak_id": 385,
+                "durak_kod": 4323,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 22,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411293.863138541,
+                    5012784.615752976
+                ]
+            },
+            "properties": {
+                "id": 29393,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "SERA GÖLÜ CADDESİ GİRİŞ",
+                "durak_id": 20,
+                "durak_kod": 4460,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 25,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4411279.502924229,
+                    5013006.615559033
+                ]
+            },
+            "properties": {
+                "id": 33348,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YILDIZLI MEZARLIK",
+                "durak_id": 871,
+                "durak_kod": 4598,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 26,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4412106.495421332,
+                    5012895.541268198
+                ]
+            },
+            "properties": {
+                "id": 38858,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "YENİ KARAYOLLARI",
+                "durak_id": 761,
+                "durak_kod": 4590,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 27,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4412329.3570419,
+                    5012494.474811973
+                ]
+            },
+            "properties": {
+                "id": 32068,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "KARAYOLLARI BÖLGE MÜD.",
+                "durak_id": 319,
+                "durak_kod": 1452,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 28,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4412805.581823514,
+                    5012064.515726871
+                ]
+            },
+            "properties": {
+                "id": 29576,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "PAPARA PARK STADYUMU KARŞISI 1",
+                "durak_id": 1633,
+                "durak_kod": 1577,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 29,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4413976.551547169,
+                    5011626.906228215
+                ]
+            },
+            "properties": {
+                "id": 29851,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "AKYAZI YOL AYRIMI 1",
+                "durak_id": 2458,
+                "durak_kod": 1579,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 31,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4414737.976864194,
+                    5011703.453283377
+                ]
+            },
+            "properties": {
+                "id": 30476,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "1 NOLU BEŞİRLİ MAHALLESİ SAHİL CAMİİ",
+                "durak_id": 1155,
+                "durak_kod": 2863,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 32,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415470.347794123,
+                    5011464.964733463
+                ]
+            },
+            "properties": {
+                "id": 38379,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "BEŞİRLİ İLK DURAK",
+                "durak_id": 2199,
+                "durak_kod": 1050,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 33,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415896.47880488,
+                    5011564.2236357
+                ]
+            },
+            "properties": {
+                "id": 37483,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "ÇEVRE ŞEHİRCİLİK MÜDÜRLÜĞÜ 3",
+                "durak_id": 3746,
+                "durak_kod": 1051,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 34,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416191.698094464,
+                    5011639.147816978
+                ]
+            },
+            "properties": {
+                "id": 33426,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "BEŞİRLİ BORSA İSTANBUL ORTAOKULU 1",
+                "durak_id": 3450,
+                "durak_kod": 1407,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 35,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416491.370163679,
+                    5011768.791612602
+                ]
+            },
+            "properties": {
+                "id": 29734,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "SPOR KOMPLEKSİ 2",
+                "durak_id": 2115,
+                "durak_kod": 1408,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 36,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416845.032185929,
+                    5011926.460856352
+                ]
+            },
+            "properties": {
+                "id": 29311,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "SARAYBOSNA PARKI 2",
+                "durak_id": 1617,
+                "durak_kod": 1183,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 37,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417233.648528288,
+                    5012093.129908973
+                ]
+            },
+            "properties": {
+                "id": 34746,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "BELEDİYE FUTBOL SAHASI",
+                "durak_id": 3034,
+                "durak_kod": 1184,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 38,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417477.438213126,
+                    5012195.492672606
+                ]
+            },
+            "properties": {
+                "id": 34469,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "ORMAN BÖLGE MÜDÜRLÜĞÜ",
+                "durak_id": 665,
+                "durak_kod": 1185,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 39,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418072.663530398,
+                    5012459.66438101
+                ]
+            },
+            "properties": {
+                "id": 36311,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "TOKLU SAHİL CAMİİ 1",
+                "durak_id": 3610,
+                "durak_kod": 1186,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 40,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418448.589450806,
+                    5012622.654973376
+                ]
+            },
+            "properties": {
+                "id": 39398,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "MERKEZ BANKASI 1",
+                "durak_id": 4252,
+                "durak_kod": 1187,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 41,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418677.796282349,
+                    5012741.396446749
+                ]
+            },
+            "properties": {
+                "id": 36752,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "AYASOFYA",
+                "durak_id": 3982,
+                "durak_kod": 1129,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 42,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419367.977125268,
+                    5013120.346327242
+                ]
+            },
+            "properties": {
+                "id": 38321,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "AĞIZ VE DİŞ SAĞLIĞI HAST.",
+                "durak_id": 567,
+                "durak_kod": 1453,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 43,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419562.86861058,
+                    5013053.61083928
+                ]
+            },
+            "properties": {
+                "id": 33073,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "AĞIZ VE DİŞ SAĞLIĞI HASTANESİ 2",
+                "durak_id": 3002,
+                "durak_kod": 3013,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 44,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419840.417044194,
+                    5013065.029639539
+                ]
+            },
+            "properties": {
+                "id": 35914,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "AVNİ AKER 2",
+                "durak_id": 3784,
+                "durak_kod": 1125,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 45,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420309.85133687,
+                    5013175.220792459
+                ]
+            },
+            "properties": {
+                "id": 29823,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "NUMUNE HASTANESİ 1",
+                "durak_id": 666,
+                "durak_kod": 1017,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 46,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420492.415301771,
+                    5012948.644356473
+                ]
+            },
+            "properties": {
+                "id": 32286,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "TRABZON LİSESİ",
+                "durak_id": 3780,
+                "durak_kod": 1029,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 47,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420843.962253695,
+                    5013039.215293
+                ]
+            },
+            "properties": {
+                "id": 37703,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "EMNİYET",
+                "durak_id": 3705,
+                "durak_kod": 1126,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 48,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421184.265937052,
+                    5012996.732403364
+                ]
+            },
+            "properties": {
+                "id": 38891,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "ATAPARK",
+                "durak_id": 1003,
+                "durak_kod": 1030,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 49,
+                "hat_kod": "208-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421373.397751909,
+                    5013657.893412776
+                ]
+            },
+            "properties": {
+                "id": 30240,
+                "hat_id": 59,
+                "hat_guzergah_ad": "YILDIZLI TOKİ KALKIŞ",
+                "hat_guzergah_id": 94,
+                "ad": "BÜYÜKŞEHİR İTFAİYE",
+                "durak_id": 1747,
+                "durak_kod": 1462,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 50,
+                "hat_kod": "208-B"
+            }
+        }
+    ]
+}

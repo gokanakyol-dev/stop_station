@@ -1,0 +1,3065 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4413246.295687565,
+                    5011767.169210849
+                ]
+            },
+            "properties": {
+                "id": 45810,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "PAPARA PARK STADYUMU KARŞISI 2",
+                "durak_id": 810,
+                "durak_kod": 2862,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 48,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4432781.085209931,
+                    5005633.328515241
+                ]
+            },
+            "properties": {
+                "id": 30980,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 6",
+                "durak_id": 1371,
+                "durak_kod": 5007,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 1,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433068.066857196,
+                    5006242.986051758
+                ]
+            },
+            "properties": {
+                "id": 32568,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KAŞÜSTÜ TOKİ",
+                "durak_id": 324,
+                "durak_kod": 5134,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 2,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433159.682798119,
+                    5006432.553699728
+                ]
+            },
+            "properties": {
+                "id": 38986,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 4",
+                "durak_id": 2664,
+                "durak_kod": 5006,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 3,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433349.25989094,
+                    5006777.057395191
+                ]
+            },
+            "properties": {
+                "id": 38075,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 3",
+                "durak_id": 2442,
+                "durak_kod": 5005,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 4,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433752.166725628,
+                    5007093.814968396
+                ]
+            },
+            "properties": {
+                "id": 40883,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 2",
+                "durak_id": 3547,
+                "durak_kod": 5004,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 5,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434052.35379479,
+                    5007370.864755917
+                ]
+            },
+            "properties": {
+                "id": 31906,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 1",
+                "durak_id": 454,
+                "durak_kod": 5246,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 6,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434334.548703952,
+                    5007397.106334502
+                ]
+            },
+            "properties": {
+                "id": 37239,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KAŞÜSTÜ ÇOK PROG.LİSE 2",
+                "durak_id": 1654,
+                "durak_kod": 5009,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 7,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434514.329681583,
+                    5007627.239165565
+                ]
+            },
+            "properties": {
+                "id": 43294,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "CEVAHİR AVM",
+                "durak_id": 4200,
+                "durak_kod": 5010,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 8,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433983.001752026,
+                    5009464.66398253
+                ]
+            },
+            "properties": {
+                "id": 43334,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "DSİ BÖLGE MÜDÜRLÜĞÜ",
+                "durak_id": 3866,
+                "durak_kod": 1102,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 10,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433371.746428081,
+                    5009994.340850656
+                ]
+            },
+            "properties": {
+                "id": 43354,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TELEKOM EĞİTİM YERLEŞKESİ",
+                "durak_id": 3264,
+                "durak_kod": 1103,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 11,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4432933.8155513,
+                    5010059.667696632
+                ]
+            },
+            "properties": {
+                "id": 43374,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "DEVLET MALZEME OFİSİ 2",
+                "durak_id": 2052,
+                "durak_kod": 1104,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 12,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4432247.196932087,
+                    5010177.198138484
+                ]
+            },
+            "properties": {
+                "id": 43394,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "ADLİ TIP 1",
+                "durak_id": 3134,
+                "durak_kod": 1105,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 13,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4431529.297535962,
+                    5010510.921552422
+                ]
+            },
+            "properties": {
+                "id": 43414,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "ÇİMENLİ",
+                "durak_id": 2502,
+                "durak_kod": 1106,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 14,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4431131.886953829,
+                    5010703.669369186
+                ]
+            },
+            "properties": {
+                "id": 43436,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "PELİTLİ AVRASYA ÜNİVERSİTESİ 2",
+                "durak_id": 4058,
+                "durak_kod": 1107,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 15,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4429796.609661764,
+                    5011145.661764695
+                ]
+            },
+            "properties": {
+                "id": 43458,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "PELİTLİ MAHALLESİ",
+                "durak_id": 4188,
+                "durak_kod": 1110,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 16,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4428882.787961842,
+                    5011320.871518124
+                ]
+            },
+            "properties": {
+                "id": 43480,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "HAVAALANI",
+                "durak_id": 2184,
+                "durak_kod": 1111,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 17,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4428232.348177136,
+                    5011488.267623947
+                ]
+            },
+            "properties": {
+                "id": 43507,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "HAVAALANI KONAKLAR",
+                "durak_id": 1132,
+                "durak_kod": 1112,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 18,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4427936.794929081,
+                    5011713.77759513
+                ]
+            },
+            "properties": {
+                "id": 43534,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KTÜ C KAPISI 2",
+                "durak_id": 132,
+                "durak_kod": 1113,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 19,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426332.79238624,
+                    5012218.059824568
+                ]
+            },
+            "properties": {
+                "id": 43561,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "FORUM AVM 1",
+                "durak_id": 2747,
+                "durak_kod": 1114,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 20,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426015.197879007,
+                    5012164.81322977
+                ]
+            },
+            "properties": {
+                "id": 43586,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "KALKINMA SAPAĞI 2",
+                "durak_id": 2954,
+                "durak_kod": 1115,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 21,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425431.549788778,
+                    5012064.958213582
+                ]
+            },
+            "properties": {
+                "id": 44513,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "SANAYİİ 1",
+                "durak_id": 935,
+                "durak_kod": 1007,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 22,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425237.519916326,
+                    5012037.966561061
+                ]
+            },
+            "properties": {
+                "id": 44561,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "SANAYİİ 2",
+                "durak_id": 3918,
+                "durak_kod": 1008,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 23,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4424947.977920772,
+                    5011984.425963877
+                ]
+            },
+            "properties": {
+                "id": 44609,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "DEĞİRMENDERE 3",
+                "durak_id": 3842,
+                "durak_kod": 1009,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 24,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4424501.030165237,
+                    5012119.236736218
+                ]
+            },
+            "properties": {
+                "id": 44657,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "DEĞİRMENDERE 1",
+                "durak_id": 286,
+                "durak_kod": 1010,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 25,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422572.753945716,
+                    5013024.759288883
+                ]
+            },
+            "properties": {
+                "id": 33211,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "MEYDAN CAN BAKKAL ÖNÜ",
+                "durak_id": 2063,
+                "durak_kod": 1012,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 27,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422304.585292394,
+                    5012975.491028166
+                ]
+            },
+            "properties": {
+                "id": 39502,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "ZEYTİNLİK CUDİBEY ORTAOKULU",
+                "durak_id": 1001,
+                "durak_kod": 1410,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 28,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422123.023202911,
+                    5012896.426317291
+                ]
+            },
+            "properties": {
+                "id": 31398,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "HACI KASIM CAMİİ 1",
+                "durak_id": 339,
+                "durak_kod": 1013,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 29,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421532.250665271,
+                    5012816.034686652
+                ]
+            },
+            "properties": {
+                "id": 37053,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "ORTAHİSAR",
+                "durak_id": 36,
+                "durak_kod": 1014,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 30,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421146.305990691,
+                    5012822.524995464
+                ]
+            },
+            "properties": {
+                "id": 40576,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "GÜLBAHARHATUN CAMİİ",
+                "durak_id": 1432,
+                "durak_kod": 1116,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 31,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420816.021061507,
+                    5012966.492959613
+                ]
+            },
+            "properties": {
+                "id": 31731,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "HAMZAPAŞA CAMİİ 1",
+                "durak_id": 1213,
+                "durak_kod": 1117,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 32,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420504.103848305,
+                    5012804.676656655
+                ]
+            },
+            "properties": {
+                "id": 34073,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "24 ŞUBAT İLKÖĞRETİM 2",
+                "durak_id": 4161,
+                "durak_kod": 1118,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 33,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434082.744015777,
+                    5008986.770383236
+                ]
+            },
+            "properties": {
+                "id": 43314,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "DSİ LOJMANLARI",
+                "durak_id": 1518,
+                "durak_kod": 1101,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 9,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420089.772703571,
+                    5012507.602506863
+                ]
+            },
+            "properties": {
+                "id": 31434,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TEVFİK SERDAR ANADOLU LİSESİ",
+                "durak_id": 3097,
+                "durak_kod": 1917,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 34,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419659.856830128,
+                    5012339.451351193
+                ]
+            },
+            "properties": {
+                "id": 32859,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TANJANT FATİH HASTANESİ",
+                "durak_id": 2180,
+                "durak_kod": 1119,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 35,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419209.012892416,
+                    5012178.382971392
+                ]
+            },
+            "properties": {
+                "id": 38690,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TANJANT MEHMET AKİF ERSOY ALTGEÇİDİ 1",
+                "durak_id": 1262,
+                "durak_kod": 1040,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 36,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418708.520461809,
+                    5012169.975629241
+                ]
+            },
+            "properties": {
+                "id": 36804,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "FATİH LİSESİ 2",
+                "durak_id": 2101,
+                "durak_kod": 1041,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 37,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423169.315096878,
+                    5012564.538557287
+                ]
+            },
+            "properties": {
+                "id": 30198,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "ARAFİLBOYU",
+                "durak_id": 3517,
+                "durak_kod": 1011,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 26,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418339.60766932,
+                    5012030.444310598
+                ]
+            },
+            "properties": {
+                "id": 38446,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "ADLİYE LOJMANLARI 2",
+                "durak_id": 2203,
+                "durak_kod": 1042,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 38,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418029.137609498,
+                    5011886.93268605
+                ]
+            },
+            "properties": {
+                "id": 31454,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TANJANT ELKAF EVLERİ 1",
+                "durak_id": 2745,
+                "durak_kod": 1043,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 39,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417589.425620864,
+                    5011865.841228095
+                ]
+            },
+            "properties": {
+                "id": 38273,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TANJANT 1",
+                "durak_id": 3256,
+                "durak_kod": 1044,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 40,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417300.217583783,
+                    5011868.791079601
+                ]
+            },
+            "properties": {
+                "id": 33326,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TANJANT 2",
+                "durak_id": 1649,
+                "durak_kod": 1045,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 41,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416980.841964696,
+                    5011847.10969191
+                ]
+            },
+            "properties": {
+                "id": 33930,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "TANJANT 3",
+                "durak_id": 3337,
+                "durak_kod": 1046,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 42,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416286.653620111,
+                    5011723.364465858
+                ]
+            },
+            "properties": {
+                "id": 35376,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "BEŞİRLİ BORSA İSTANBUL ORTAOKULU 2",
+                "durak_id": 644,
+                "durak_kod": 1047,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 43,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415827.460720588,
+                    5011570.565620804
+                ]
+            },
+            "properties": {
+                "id": 35296,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "ÇEVRE ŞEHİRCİLİK MÜDÜRLÜĞÜ 2",
+                "durak_id": 3271,
+                "durak_kod": 1048,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 44,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415426.153956278,
+                    5011498.886681174
+                ]
+            },
+            "properties": {
+                "id": 29606,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "BEŞİRLİ SON DURAK",
+                "durak_id": 1369,
+                "durak_kod": 1049,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 45,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4414970.968558425,
+                    5011744.308124026
+                ]
+            },
+            "properties": {
+                "id": 35174,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "AKYAZI STADI YOL AYRIMI",
+                "durak_id": 1315,
+                "durak_kod": 2867,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 46,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4413178.27947869,
+                    5011860.089020231
+                ]
+            },
+            "properties": {
+                "id": 32247,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "PAPARA PARK STADYUMU",
+                "durak_id": 1952,
+                "durak_kod": 1578,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 47,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4413976.551547169,
+                    5011626.906228215
+                ]
+            },
+            "properties": {
+                "id": 32522,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "AKYAZI YOL AYRIMI 1",
+                "durak_id": 2458,
+                "durak_kod": 1579,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 49,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4414737.976864194,
+                    5011703.453283377
+                ]
+            },
+            "properties": {
+                "id": 33476,
+                "hat_id": 13,
+                "hat_guzergah_ad": "KAŞÜSTÜ KALKIŞ",
+                "hat_guzergah_id": 27,
+                "ad": "1 NOLU BEŞİRLİ MAHALLESİ SAHİL CAMİİ",
+                "durak_id": 1155,
+                "durak_kod": 2863,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 50,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434260.855201046,
+                    5007986.086230129
+                ]
+            },
+            "properties": {
+                "id": 45631,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "YALINCAK CAMİİ",
+                "durak_id": 545,
+                "durak_kod": 1099,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 44,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4414737.976864194,
+                    5011703.453283377
+                ]
+            },
+            "properties": {
+                "id": 35652,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "1 NOLU BEŞİRLİ MAHALLESİ SAHİL CAMİİ",
+                "durak_id": 1155,
+                "durak_kod": 2863,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 1,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415470.347794123,
+                    5011464.964733463
+                ]
+            },
+            "properties": {
+                "id": 30184,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "BEŞİRLİ İLK DURAK",
+                "durak_id": 2199,
+                "durak_kod": 1050,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 2,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4415896.47880488,
+                    5011564.2236357
+                ]
+            },
+            "properties": {
+                "id": 29937,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "ÇEVRE ŞEHİRCİLİK MÜDÜRLÜĞÜ 3",
+                "durak_id": 3746,
+                "durak_kod": 1051,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 3,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416191.698094464,
+                    5011639.147816978
+                ]
+            },
+            "properties": {
+                "id": 30601,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "BEŞİRLİ BORSA İSTANBUL ORTAOKULU 1",
+                "durak_id": 3450,
+                "durak_kod": 1407,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 4,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416491.370163679,
+                    5011768.791612602
+                ]
+            },
+            "properties": {
+                "id": 39708,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "SPOR KOMPLEKSİ 2",
+                "durak_id": 2115,
+                "durak_kod": 1408,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 5,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4416830.783291108,
+                    5011778.968502498
+                ]
+            },
+            "properties": {
+                "id": 32034,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "İHSAN KOZ İLKOKULU 1",
+                "durak_id": 3295,
+                "durak_kod": 1409,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 6,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417101.512292718,
+                    5011836.195270142
+                ]
+            },
+            "properties": {
+                "id": 32503,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TANJANT 4",
+                "durak_id": 2490,
+                "durak_kod": 1052,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 7,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417358.66031645,
+                    5011842.389940453
+                ]
+            },
+            "properties": {
+                "id": 30962,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TANJANT 5",
+                "durak_id": 4101,
+                "durak_kod": 1053,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 8,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4417639.519391721,
+                    5011837.080222802
+                ]
+            },
+            "properties": {
+                "id": 40397,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TANJANT 6",
+                "durak_id": 113,
+                "durak_kod": 1054,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 9,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418060.307066919,
+                    5011872.33090259
+                ]
+            },
+            "properties": {
+                "id": 35646,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TANJANT ELKAF EVLERİ 2",
+                "durak_id": 1761,
+                "durak_kod": 1055,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 10,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418399.608874857,
+                    5012033.541707144
+                ]
+            },
+            "properties": {
+                "id": 37350,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "ADLİYE LOJMANLARI 1",
+                "durak_id": 3776,
+                "durak_kod": 1056,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 11,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418852.567882896,
+                    5012145.343633568
+                ]
+            },
+            "properties": {
+                "id": 29878,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TANJANT FATİH LİSESİ 3",
+                "durak_id": 2394,
+                "durak_kod": 1057,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 12,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419256.323676002,
+                    5012161.863288445
+                ]
+            },
+            "properties": {
+                "id": 36418,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TANJANT MEHMET AKİF ERSOY ALTGEÇİDİ 2",
+                "durak_id": 1463,
+                "durak_kod": 1058,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 13,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419431.985832474,
+                    5012578.403863579
+                ]
+            },
+            "properties": {
+                "id": 39936,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "FATİH HASTANESİ",
+                "durak_id": 3889,
+                "durak_kod": 1026,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 14,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419778.746046295,
+                    5012697.587311957
+                ]
+            },
+            "properties": {
+                "id": 30250,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TİCARET LİSESİ",
+                "durak_id": 3094,
+                "durak_kod": 1027,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 15,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419989.028564404,
+                    5012766.472471329
+                ]
+            },
+            "properties": {
+                "id": 32584,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TS AVNİ AKER STADI KARŞISI",
+                "durak_id": 3386,
+                "durak_kod": 1028,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 16,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420492.415301771,
+                    5012948.644356473
+                ]
+            },
+            "properties": {
+                "id": 33461,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TRABZON LİSESİ",
+                "durak_id": 3780,
+                "durak_kod": 1029,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 17,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420843.962253695,
+                    5013039.215293
+                ]
+            },
+            "properties": {
+                "id": 31208,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "EMNİYET",
+                "durak_id": 3705,
+                "durak_kod": 1126,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 18,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421184.265937052,
+                    5012996.732403364
+                ]
+            },
+            "properties": {
+                "id": 36756,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "ATAPARK",
+                "durak_id": 1003,
+                "durak_kod": 1030,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 19,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421663.830303388,
+                    5012758.212126676
+                ]
+            },
+            "properties": {
+                "id": 30222,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "BAHÇECİK YOL AYRIMI",
+                "durak_id": 3278,
+                "durak_kod": 1031,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 20,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422026.731843375,
+                    5012812.347013122
+                ]
+            },
+            "properties": {
+                "id": 39597,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "HACI KASIM CAMİİ 2",
+                "durak_id": 3528,
+                "durak_kod": 1032,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 21,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422315.717241474,
+                    5012956.314826535
+                ]
+            },
+            "properties": {
+                "id": 32415,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "ZEYTİNLİK",
+                "durak_id": 1377,
+                "durak_kod": 1033,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 22,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422990.757997148,
+                    5012619.709599447
+                ]
+            },
+            "properties": {
+                "id": 30291,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "BARO",
+                "durak_id": 1248,
+                "durak_kod": 1034,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 23,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423478.338003319,
+                    5012406.563963695
+                ]
+            },
+            "properties": {
+                "id": 44714,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "ESENTEPE AİLE YÖNLENDİRME MERKEZİ",
+                "durak_id": 4236,
+                "durak_kod": 1035,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 24,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4424432.902636872,
+                    5012135.313856802
+                ]
+            },
+            "properties": {
+                "id": 44751,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "DEĞİRMENDERE 2",
+                "durak_id": 1354,
+                "durak_kod": 1463,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 25,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425087.906520698,
+                    5011954.042174851
+                ]
+            },
+            "properties": {
+                "id": 44799,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "DEĞİRMENDERE 4",
+                "durak_id": 2599,
+                "durak_kod": 1411,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 26,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425357.077049437,
+                    5011999.617893999
+                ]
+            },
+            "properties": {
+                "id": 44846,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "DEMİRKIRLAR İŞ MERKEZİ",
+                "durak_id": 1524,
+                "durak_kod": 1412,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 27,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426031.227885681,
+                    5012121.154189572
+                ]
+            },
+            "properties": {
+                "id": 42032,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KALKINMA KAVŞAĞI",
+                "durak_id": 3103,
+                "durak_kod": 1445,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 28,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426378.656016447,
+                    5012188.85528494
+                ]
+            },
+            "properties": {
+                "id": 42085,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "FORUM AVM 2",
+                "durak_id": 2003,
+                "durak_kod": 1087,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 29,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4428035.090039451,
+                    5011575.137752165
+                ]
+            },
+            "properties": {
+                "id": 42111,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KTÜ C KAPISI 1",
+                "durak_id": 791,
+                "durak_kod": 1088,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 30,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4428866.201357713,
+                    5011260.845598914
+                ]
+            },
+            "properties": {
+                "id": 35272,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KONAKLAR MAHALLESİ",
+                "durak_id": 1127,
+                "durak_kod": 1090,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 31,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4429659.241410125,
+                    5011102.449743516
+                ]
+            },
+            "properties": {
+                "id": 42163,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "PELİTLİ 1",
+                "durak_id": 708,
+                "durak_kod": 1091,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 33,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4431035.038996839,
+                    5010702.784519677
+                ]
+            },
+            "properties": {
+                "id": 42228,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "PELİTLİ AVRASYA ÜNİVERSİTESİ 1",
+                "durak_id": 2171,
+                "durak_kod": 1094,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 36,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4431609.447569332,
+                    5010422.143812511
+                ]
+            },
+            "properties": {
+                "id": 42250,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "ÇİMENLİ YOL AYRIMI 1",
+                "durak_id": 2437,
+                "durak_kod": 1095,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 37,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4432083.557280621,
+                    5010174.838667713
+                ]
+            },
+            "properties": {
+                "id": 42272,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "İLAHİYAT FAKÜLTESİ",
+                "durak_id": 1166,
+                "durak_kod": 1096,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 38,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4432547.202959775,
+                    5010076.773670109
+                ]
+            },
+            "properties": {
+                "id": 42294,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "TRABZON BÜYÜKŞEHİR BELEDİYESİ EK HİZMET BİNASI",
+                "durak_id": 877,
+                "durak_kod": 2042,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 39,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433537.612469362,
+                    5009895.245434425
+                ]
+            },
+            "properties": {
+                "id": 42314,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "AVRASYA ÜNİVERSİTESİ ÖMER YILDIZ YERLEŞKESİ 1",
+                "durak_id": 105,
+                "durak_kod": 1459,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 40,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434433.511731267,
+                    5007622.521461585
+                ]
+            },
+            "properties": {
+                "id": 42375,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KANUNİ HASTANESİ YOL AYRIMI",
+                "durak_id": 2453,
+                "durak_kod": 5001,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 45,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433338.573219824,
+                    5006788.55580335
+                ]
+            },
+            "properties": {
+                "id": 41145,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 3",
+                "durak_id": 44,
+                "durak_kod": 5132,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 49,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433150.331960892,
+                    5006434.764852716
+                ]
+            },
+            "properties": {
+                "id": 39966,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 4",
+                "durak_id": 2961,
+                "durak_kod": 5248,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 50,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433023.984338842,
+                    5006197.584706048
+                ]
+            },
+            "properties": {
+                "id": 30796,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KAŞÜSTÜ TOKİ",
+                "durak_id": 896,
+                "durak_kod": 5008,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 51,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4432781.085209931,
+                    5005633.328515241
+                ]
+            },
+            "properties": {
+                "id": 40043,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 6",
+                "durak_id": 1371,
+                "durak_kod": 5007,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 52,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434048.346293122,
+                    5008889.454601385
+                ]
+            },
+            "properties": {
+                "id": 42335,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "DSİ LOJMANLARI",
+                "durak_id": 2564,
+                "durak_kod": 2043,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 42,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434037.436983025,
+                    5008531.753745879
+                ]
+            },
+            "properties": {
+                "id": 42355,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "DOLUM TESİSLERİ 2",
+                "durak_id": 3299,
+                "durak_kod": 1100,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 43,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433965.858550444,
+                    5009379.287253876
+                ]
+            },
+            "properties": {
+                "id": 30003,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "İLLER BANKASI",
+                "durak_id": 3306,
+                "durak_kod": 1098,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 41,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4429285.875838004,
+                    5011167.931516125
+                ]
+            },
+            "properties": {
+                "id": 42148,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "PELİTLİ TEİAŞ",
+                "durak_id": 1195,
+                "durak_kod": 1458,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 32,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4430289.866325468,
+                    5011026.349859112
+                ]
+            },
+            "properties": {
+                "id": 42185,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "MTA 1",
+                "durak_id": 282,
+                "durak_kod": 1092,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 34,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4430700.301288024,
+                    5010848.933255395
+                ]
+            },
+            "properties": {
+                "id": 42206,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "PELİTLİ 3",
+                "durak_id": 840,
+                "durak_kod": 1093,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 35,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434314.399876119,
+                    5007381.331893945
+                ]
+            },
+            "properties": {
+                "id": 32954,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KAŞÜSTÜ ÇOK PROG.LİSE 1",
+                "durak_id": 4377,
+                "durak_kod": 5002,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 46,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4434045.897264325,
+                    5007379.710223936
+                ]
+            },
+            "properties": {
+                "id": 31364,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 1",
+                "durak_id": 4162,
+                "durak_kod": 5003,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 47,
+                "hat_kod": "121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4433746.988416495,
+                    5007094.608632385
+                ]
+            },
+            "properties": {
+                "id": 31909,
+                "hat_id": 13,
+                "hat_guzergah_ad": "BEŞİRLİ KALKIŞ",
+                "hat_guzergah_id": 26,
+                "ad": "KAŞÜSTÜ KANUNİ HASTANESİ 2",
+                "durak_id": 345,
+                "durak_kod": 5247,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 48,
+                "hat_kod": "121"
+            }
+        }
+    ]
+}

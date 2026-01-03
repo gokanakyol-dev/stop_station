@@ -1,0 +1,3095 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421728.061649576,
+                    5013707.312652839
+                ]
+            },
+            "properties": {
+                "id": 45913,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "HANİFE HATUN CAMİİ",
+                "durak_id": 554,
+                "durak_kod": 1502,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 12,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425237.519916326,
+                    5012037.966561061
+                ]
+            },
+            "properties": {
+                "id": 45655,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "SANAYİİ 2",
+                "durak_id": 3918,
+                "durak_kod": 1008,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 8,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420232.59561026,
+                    5010741.717974291
+                ]
+            },
+            "properties": {
+                "id": 32624,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "USTA KENT SİTESİ",
+                "durak_id": 3858,
+                "durak_kod": 3069,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 40,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418570.706932207,
+                    5009880.204254155
+                ]
+            },
+            "properties": {
+                "id": 32549,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KÖŞK KAVŞAĞI",
+                "durak_id": 3872,
+                "durak_kod": 1073,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 29,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419440.780072248,
+                    5011006.587583447
+                ]
+            },
+            "properties": {
+                "id": 40573,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ŞÜKRANİYE CAMİİ 1",
+                "durak_id": 3900,
+                "durak_kod": 1069,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 25,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423478.338003319,
+                    5012406.563963695
+                ]
+            },
+            "properties": {
+                "id": 44718,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ESENTEPE AİLE YÖNLENDİRME MERKEZİ",
+                "durak_id": 4236,
+                "durak_kod": 1035,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 51,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420162.46433106,
+                    5009963.225960916
+                ]
+            },
+            "properties": {
+                "id": 38514,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ÇAMOBA",
+                "durak_id": 4320,
+                "durak_kod": 1080,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 38,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425431.549788778,
+                    5012064.958213582
+                ]
+            },
+            "properties": {
+                "id": 44517,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "SANAYİİ 1",
+                "durak_id": 935,
+                "durak_kod": 1007,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 7,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4424947.977920772,
+                    5011984.425963877
+                ]
+            },
+            "properties": {
+                "id": 44613,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "DEĞİRMENDERE 3",
+                "durak_id": 3842,
+                "durak_kod": 1009,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 9,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4424501.030165237,
+                    5012119.236736218
+                ]
+            },
+            "properties": {
+                "id": 44661,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "DEĞİRMENDERE 1",
+                "durak_id": 286,
+                "durak_kod": 1010,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 10,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423270.281875026,
+                    5012895.098743681
+                ]
+            },
+            "properties": {
+                "id": 43792,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ÇÖMLEKÇİ",
+                "durak_id": 4029,
+                "durak_kod": 1060,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 11,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420492.415301771,
+                    5012948.644356473
+                ]
+            },
+            "properties": {
+                "id": 34781,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "TRABZON LİSESİ",
+                "durak_id": 3780,
+                "durak_kod": 1029,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 16,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422273.861112936,
+                    5013592.247348111
+                ]
+            },
+            "properties": {
+                "id": 46081,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "SAHİL PERON",
+                "durak_id": 584,
+                "durak_kod": 1451,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 52,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421250.612353564,
+                    5013546.516643714
+                ]
+            },
+            "properties": {
+                "id": 32172,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ŞENOL GÜNEŞ CADDESİ",
+                "durak_id": 3618,
+                "durak_kod": 1015,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 13,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420810.455086967,
+                    5013316.243688562
+                ]
+            },
+            "properties": {
+                "id": 36686,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "VALİLİK 1",
+                "durak_id": 3343,
+                "durak_kod": 1016,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 14,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420309.85133687,
+                    5013175.220792459
+                ]
+            },
+            "properties": {
+                "id": 38331,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "NUMUNE HASTANESİ 1",
+                "durak_id": 666,
+                "durak_kod": 1017,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 15,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420843.962253695,
+                    5013039.215293
+                ]
+            },
+            "properties": {
+                "id": 32890,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "EMNİYET",
+                "durak_id": 3705,
+                "durak_kod": 1126,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 17,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421184.265937052,
+                    5012996.732403364
+                ]
+            },
+            "properties": {
+                "id": 37859,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ATAPARK",
+                "durak_id": 1003,
+                "durak_kod": 1030,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 18,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421265.083887368,
+                    5012639.175439337
+                ]
+            },
+            "properties": {
+                "id": 38537,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "SOĞUKSU CADDESİ GİRİŞ",
+                "durak_id": 3779,
+                "durak_kod": 2273,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 19,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420998.251067936,
+                    5012377.063857177
+                ]
+            },
+            "properties": {
+                "id": 32159,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "GAZİ SOKAK",
+                "durak_id": 1442,
+                "durak_kod": 2274,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 20,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420588.484022326,
+                    5012150.063532096
+                ]
+            },
+            "properties": {
+                "id": 34079,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "İSMETPAŞA İLKÖĞRETİM 2",
+                "durak_id": 8,
+                "durak_kod": 1086,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 21,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420190.071564776,
+                    5012052.716088672
+                ]
+            },
+            "properties": {
+                "id": 38627,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ERDOĞDU KIŞLA 1",
+                "durak_id": 728,
+                "durak_kod": 1065,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 22,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420007.952877838,
+                    5011561.273876598
+                ]
+            },
+            "properties": {
+                "id": 40809,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "DAMLA SİTELERİ 1",
+                "durak_id": 1639,
+                "durak_kod": 1066,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 23,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419676.554753747,
+                    5011220.730203463
+                ]
+            },
+            "properties": {
+                "id": 36096,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "VİLLA SİTELERİ",
+                "durak_id": 3168,
+                "durak_kod": 1289,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 24,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419241.96346169,
+                    5010694.525928131
+                ]
+            },
+            "properties": {
+                "id": 35402,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KARAYOLLARI LOJMANLARI 1",
+                "durak_id": 3577,
+                "durak_kod": 1070,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 26,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419034.686569832,
+                    5010445.59167502
+                ]
+            },
+            "properties": {
+                "id": 38327,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ÇAMLIK HASTANESİ",
+                "durak_id": 1984,
+                "durak_kod": 1071,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 27,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418933.942430665,
+                    5010131.188561696
+                ]
+            },
+            "properties": {
+                "id": 40873,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "MELTEM SİTESİ 1",
+                "durak_id": 984,
+                "durak_kod": 1072,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 28,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418713.975116858,
+                    5009669.777632175
+                ]
+            },
+            "properties": {
+                "id": 32238,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ALİ ÖZBAK SOKAK",
+                "durak_id": 1549,
+                "durak_kod": 2473,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 30,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418848.115103264,
+                    5009630.995927532
+                ]
+            },
+            "properties": {
+                "id": 30404,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "İKİ ÇEŞMELER",
+                "durak_id": 835,
+                "durak_kod": 1074,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 31,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419102.368820235,
+                    5009639.990909892
+                ]
+            },
+            "properties": {
+                "id": 38507,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "HEKİMOĞLU ÇEŞME",
+                "durak_id": 3113,
+                "durak_kod": 2476,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 32,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418965.557166051,
+                    5009424.555995936
+                ]
+            },
+            "properties": {
+                "id": 39914,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KÖŞK 2",
+                "durak_id": 3570,
+                "durak_kod": 1076,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 33,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419176.173642632,
+                    5009360.707961444
+                ]
+            },
+            "properties": {
+                "id": 33405,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ATATÜRK KÖŞKÜ",
+                "durak_id": 139,
+                "durak_kod": 1217,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 34,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419214.244908483,
+                    5009346.994696937
+                ]
+            },
+            "properties": {
+                "id": 38958,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KÖŞK 1",
+                "durak_id": 1866,
+                "durak_kod": 1077,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 35,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419506.903849779,
+                    5009688.799893645
+                ]
+            },
+            "properties": {
+                "id": 39628,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "NECATİ BEY VİLLALARI",
+                "durak_id": 72,
+                "durak_kod": 1078,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 36,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419786.204452178,
+                    5009757.516279925
+                ]
+            },
+            "properties": {
+                "id": 30879,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KASIMOĞLU MEVKİİ",
+                "durak_id": 2872,
+                "durak_kod": 2481,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 37,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420240.610613597,
+                    5010513.723520862
+                ]
+            },
+            "properties": {
+                "id": 34090,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ATAKENT",
+                "durak_id": 501,
+                "durak_kod": 1081,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 39,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420198.754485059,
+                    5010962.93374373
+                ]
+            },
+            "properties": {
+                "id": 32131,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KUYULAR MEVKİİ",
+                "durak_id": 136,
+                "durak_kod": 1082,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 41,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420156.787037029,
+                    5011323.821204297
+                ]
+            },
+            "properties": {
+                "id": 39885,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "GAZİ KÖŞK SİTESİ",
+                "durak_id": 287,
+                "durak_kod": 1083,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 42,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420231.593734843,
+                    5011683.542141673
+                ]
+            },
+            "properties": {
+                "id": 32074,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "TAHTALI CAMİİ",
+                "durak_id": 183,
+                "durak_kod": 1084,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 43,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420421.282147154,
+                    5011954.189668743
+                ]
+            },
+            "properties": {
+                "id": 38486,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KARACASOKAK",
+                "durak_id": 648,
+                "durak_kod": 1085,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 44,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420719.395743499,
+                    5012126.906551897
+                ]
+            },
+            "properties": {
+                "id": 37858,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "İSMETPAŞA İLKÖĞRETİM 1",
+                "durak_id": 575,
+                "durak_kod": 3014,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 45,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421303.043833728,
+                    5012599.496867458
+                ]
+            },
+            "properties": {
+                "id": 33814,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "TANJANT 7",
+                "durak_id": 3088,
+                "durak_kod": 2945,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 46,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421663.830303388,
+                    5012758.212126676
+                ]
+            },
+            "properties": {
+                "id": 32969,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "BAHÇECİK YOL AYRIMI",
+                "durak_id": 3278,
+                "durak_kod": 1031,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 47,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422026.731843375,
+                    5012812.347013122
+                ]
+            },
+            "properties": {
+                "id": 34885,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "HACI KASIM CAMİİ 2",
+                "durak_id": 3528,
+                "durak_kod": 1032,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 48,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422315.717241474,
+                    5012956.314826535
+                ]
+            },
+            "properties": {
+                "id": 29773,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "ZEYTİNLİK",
+                "durak_id": 1377,
+                "durak_kod": 1033,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 49,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422990.757997148,
+                    5012619.709599447
+                ]
+            },
+            "properties": {
+                "id": 39482,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "BARO",
+                "durak_id": 1248,
+                "durak_kod": 1034,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 50,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4427017.852532582,
+                    5010827.844048936
+                ]
+            },
+            "properties": {
+                "id": 33422,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "FARABİ HASTANESİ SON DURAK",
+                "durak_id": 1257,
+                "durak_kod": 2204,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 1,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426884.38046312,
+                    5011161.884757382
+                ]
+            },
+            "properties": {
+                "id": 29888,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "FARABİ HASTANESİ 2",
+                "durak_id": 4356,
+                "durak_kod": 1039,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 2,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426837.96023546,
+                    5011545.935143685
+                ]
+            },
+            "properties": {
+                "id": 35576,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KTÜ B KAPISI 1",
+                "durak_id": 3432,
+                "durak_kod": 1003,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 3,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426517.694060448,
+                    5011713.482614642
+                ]
+            },
+            "properties": {
+                "id": 36055,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KALKINMA ECZANELER",
+                "durak_id": 4110,
+                "durak_kod": 1004,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 4,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426297.392788168,
+                    5011837.22771492
+                ]
+            },
+            "properties": {
+                "id": 37504,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "KALKINMA CAMİİ 1",
+                "durak_id": 164,
+                "durak_kod": 1005,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 5,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426211.120182803,
+                    5011996.373013726
+                ]
+            },
+            "properties": {
+                "id": 38226,
+                "hat_id": 9,
+                "hat_guzergah_ad": "TIP KALKIŞ",
+                "hat_guzergah_id": 169,
+                "ad": "GENÇLİK MERKEZİ 1",
+                "durak_id": 1486,
+                "durak_kod": 1006,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 6,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421728.061649576,
+                    5013707.312652839
+                ]
+            },
+            "properties": {
+                "id": 45912,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "HANİFE HATUN CAMİİ",
+                "durak_id": 554,
+                "durak_kod": 1502,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 2,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422254.046243574,
+                    5013627.356873614
+                ]
+            },
+            "properties": {
+                "id": 45407,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "SAHİL PERONU BAŞLANGIÇ",
+                "durak_id": 2412,
+                "durak_kod": 1061,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 1,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425087.906520698,
+                    5011954.042174851
+                ]
+            },
+            "properties": {
+                "id": 44803,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "DEĞİRMENDERE 4",
+                "durak_id": 2599,
+                "durak_kod": 1411,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 43,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4425357.077049437,
+                    5011999.617893999
+                ]
+            },
+            "properties": {
+                "id": 44850,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "DEMİRKIRLAR İŞ MERKEZİ",
+                "durak_id": 1524,
+                "durak_kod": 1412,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 44,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426031.227885681,
+                    5012121.154189572
+                ]
+            },
+            "properties": {
+                "id": 42034,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KALKINMA KAVŞAĞI",
+                "durak_id": 3103,
+                "durak_kod": 1445,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 45,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421250.612353564,
+                    5013546.516643714
+                ]
+            },
+            "properties": {
+                "id": 40524,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ŞENOL GÜNEŞ CADDESİ",
+                "durak_id": 3618,
+                "durak_kod": 1015,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 3,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420810.455086967,
+                    5013316.243688562
+                ]
+            },
+            "properties": {
+                "id": 33504,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "VALİLİK 1",
+                "durak_id": 3343,
+                "durak_kod": 1016,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 4,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420309.85133687,
+                    5013175.220792459
+                ]
+            },
+            "properties": {
+                "id": 37881,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "NUMUNE HASTANESİ 1",
+                "durak_id": 666,
+                "durak_kod": 1017,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 5,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420492.415301771,
+                    5012948.644356473
+                ]
+            },
+            "properties": {
+                "id": 38707,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "TRABZON LİSESİ",
+                "durak_id": 3780,
+                "durak_kod": 1029,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 6,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420843.962253695,
+                    5013039.215293
+                ]
+            },
+            "properties": {
+                "id": 38314,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "EMNİYET",
+                "durak_id": 3705,
+                "durak_kod": 1126,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 7,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421184.265937052,
+                    5012996.732403364
+                ]
+            },
+            "properties": {
+                "id": 32139,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ATAPARK",
+                "durak_id": 1003,
+                "durak_kod": 1030,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 8,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421265.083887368,
+                    5012639.175439337
+                ]
+            },
+            "properties": {
+                "id": 29788,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "SOĞUKSU CADDESİ GİRİŞ",
+                "durak_id": 3779,
+                "durak_kod": 2273,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 9,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420998.251067936,
+                    5012377.063857177
+                ]
+            },
+            "properties": {
+                "id": 34008,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "GAZİ SOKAK",
+                "durak_id": 1442,
+                "durak_kod": 2274,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 10,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420588.484022326,
+                    5012150.063532096
+                ]
+            },
+            "properties": {
+                "id": 39182,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "İSMETPAŞA İLKÖĞRETİM 2",
+                "durak_id": 8,
+                "durak_kod": 1086,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 11,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420190.071564776,
+                    5012052.716088672
+                ]
+            },
+            "properties": {
+                "id": 38881,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ERDOĞDU KIŞLA 1",
+                "durak_id": 728,
+                "durak_kod": 1065,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 12,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420007.952877838,
+                    5011561.273876598
+                ]
+            },
+            "properties": {
+                "id": 31521,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "DAMLA SİTELERİ 1",
+                "durak_id": 1639,
+                "durak_kod": 1066,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 13,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419676.554753747,
+                    5011220.730203463
+                ]
+            },
+            "properties": {
+                "id": 36904,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "VİLLA SİTELERİ",
+                "durak_id": 3168,
+                "durak_kod": 1289,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 14,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419440.780072248,
+                    5011006.587583447
+                ]
+            },
+            "properties": {
+                "id": 36200,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ŞÜKRANİYE CAMİİ 1",
+                "durak_id": 3900,
+                "durak_kod": 1069,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 15,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419241.96346169,
+                    5010694.525928131
+                ]
+            },
+            "properties": {
+                "id": 36486,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KARAYOLLARI LOJMANLARI 1",
+                "durak_id": 3577,
+                "durak_kod": 1070,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 16,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419034.686569832,
+                    5010445.59167502
+                ]
+            },
+            "properties": {
+                "id": 36788,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ÇAMLIK HASTANESİ",
+                "durak_id": 1984,
+                "durak_kod": 1071,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 17,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418933.942430665,
+                    5010131.188561696
+                ]
+            },
+            "properties": {
+                "id": 36726,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "MELTEM SİTESİ 1",
+                "durak_id": 984,
+                "durak_kod": 1072,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 18,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418570.706932207,
+                    5009880.204254155
+                ]
+            },
+            "properties": {
+                "id": 35648,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KÖŞK KAVŞAĞI",
+                "durak_id": 3872,
+                "durak_kod": 1073,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 19,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418713.975116858,
+                    5009669.777632175
+                ]
+            },
+            "properties": {
+                "id": 32896,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ALİ ÖZBAK SOKAK",
+                "durak_id": 1549,
+                "durak_kod": 2473,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 20,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418848.115103264,
+                    5009630.995927532
+                ]
+            },
+            "properties": {
+                "id": 29257,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "İKİ ÇEŞMELER",
+                "durak_id": 835,
+                "durak_kod": 1074,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 21,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419102.368820235,
+                    5009639.990909892
+                ]
+            },
+            "properties": {
+                "id": 29900,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "HEKİMOĞLU ÇEŞME",
+                "durak_id": 3113,
+                "durak_kod": 2476,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 22,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4418965.557166051,
+                    5009424.555995936
+                ]
+            },
+            "properties": {
+                "id": 41004,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KÖŞK 2",
+                "durak_id": 3570,
+                "durak_kod": 1076,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 23,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419176.173642632,
+                    5009360.707961444
+                ]
+            },
+            "properties": {
+                "id": 39694,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ATATÜRK KÖŞKÜ",
+                "durak_id": 139,
+                "durak_kod": 1217,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 24,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419214.244908483,
+                    5009346.994696937
+                ]
+            },
+            "properties": {
+                "id": 33506,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KÖŞK 1",
+                "durak_id": 1866,
+                "durak_kod": 1077,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 25,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420162.46433106,
+                    5009963.225960916
+                ]
+            },
+            "properties": {
+                "id": 29273,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ÇAMOBA",
+                "durak_id": 4320,
+                "durak_kod": 1080,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 28,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420232.59561026,
+                    5010741.717974291
+                ]
+            },
+            "properties": {
+                "id": 35911,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "USTA KENT SİTESİ",
+                "durak_id": 3858,
+                "durak_kod": 3069,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 30,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421303.043833728,
+                    5012599.496867458
+                ]
+            },
+            "properties": {
+                "id": 39770,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "TANJANT 7",
+                "durak_id": 3088,
+                "durak_kod": 2945,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 36,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421663.830303388,
+                    5012758.212126676
+                ]
+            },
+            "properties": {
+                "id": 34281,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "BAHÇECİK YOL AYRIMI",
+                "durak_id": 3278,
+                "durak_kod": 1031,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 37,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422026.731843375,
+                    5012812.347013122
+                ]
+            },
+            "properties": {
+                "id": 41274,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "HACI KASIM CAMİİ 2",
+                "durak_id": 3528,
+                "durak_kod": 1032,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 38,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423478.338003319,
+                    5012406.563963695
+                ]
+            },
+            "properties": {
+                "id": 44717,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ESENTEPE AİLE YÖNLENDİRME MERKEZİ",
+                "durak_id": 4236,
+                "durak_kod": 1035,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 41,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4424432.902636872,
+                    5012135.313856802
+                ]
+            },
+            "properties": {
+                "id": 44755,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "DEĞİRMENDERE 2",
+                "durak_id": 1354,
+                "durak_kod": 1463,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 42,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419506.903849779,
+                    5009688.799893645
+                ]
+            },
+            "properties": {
+                "id": 33649,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "NECATİ BEY VİLLALARI",
+                "durak_id": 72,
+                "durak_kod": 1078,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 26,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4419786.204452178,
+                    5009757.516279925
+                ]
+            },
+            "properties": {
+                "id": 39579,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KASIMOĞLU MEVKİİ",
+                "durak_id": 2872,
+                "durak_kod": 2481,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 27,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420240.610613597,
+                    5010513.723520862
+                ]
+            },
+            "properties": {
+                "id": 40744,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ATAKENT",
+                "durak_id": 501,
+                "durak_kod": 1081,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 29,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420198.754485059,
+                    5010962.93374373
+                ]
+            },
+            "properties": {
+                "id": 36638,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KUYULAR MEVKİİ",
+                "durak_id": 136,
+                "durak_kod": 1082,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 31,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420156.787037029,
+                    5011323.821204297
+                ]
+            },
+            "properties": {
+                "id": 31500,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "GAZİ KÖŞK SİTESİ",
+                "durak_id": 287,
+                "durak_kod": 1083,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 32,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420231.593734843,
+                    5011683.542141673
+                ]
+            },
+            "properties": {
+                "id": 39281,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "TAHTALI CAMİİ",
+                "durak_id": 183,
+                "durak_kod": 1084,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 33,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420421.282147154,
+                    5011954.189668743
+                ]
+            },
+            "properties": {
+                "id": 33646,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KARACASOKAK",
+                "durak_id": 648,
+                "durak_kod": 1085,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 34,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4420719.395743499,
+                    5012126.906551897
+                ]
+            },
+            "properties": {
+                "id": 30908,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "İSMETPAŞA İLKÖĞRETİM 1",
+                "durak_id": 575,
+                "durak_kod": 3014,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 35,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422315.717241474,
+                    5012956.314826535
+                ]
+            },
+            "properties": {
+                "id": 33958,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "ZEYTİNLİK",
+                "durak_id": 1377,
+                "durak_kod": 1033,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 39,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422990.757997148,
+                    5012619.709599447
+                ]
+            },
+            "properties": {
+                "id": 36285,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "BARO",
+                "durak_id": 1248,
+                "durak_kod": 1034,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 40,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426120.060839334,
+                    5011959.499450349
+                ]
+            },
+            "properties": {
+                "id": 31817,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "GENÇLİK MERKEZİ 2",
+                "durak_id": 669,
+                "durak_kod": 1037,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 46,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426293.607925481,
+                    5011826.903272077
+                ]
+            },
+            "properties": {
+                "id": 32908,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KALKINMA CAMİİ 1",
+                "durak_id": 1420,
+                "durak_kod": 2201,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 47,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426511.348849474,
+                    5011702.273362733
+                ]
+            },
+            "properties": {
+                "id": 30202,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KALKINMA ECZANELER",
+                "durak_id": 1218,
+                "durak_kod": 2202,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 48,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4426801.670081462,
+                    5011542.24795188
+                ]
+            },
+            "properties": {
+                "id": 36573,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "KTÜ B KAPISI 2",
+                "durak_id": 2446,
+                "durak_kod": 1038,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 49,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4427028.984481662,
+                    5011104.809439372
+                ]
+            },
+            "properties": {
+                "id": 34591,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "FARABİ HASTANESİ 1",
+                "durak_id": 2869,
+                "durak_kod": 1002,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 50,
+                "hat_kod": "117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4427009.058292809,
+                    5010818.553014452
+                ]
+            },
+            "properties": {
+                "id": 36189,
+                "hat_id": 9,
+                "hat_guzergah_ad": "SAHİL PERON  KALKIŞ",
+                "hat_guzergah_id": 168,
+                "ad": "FARABİ HASTANESİ SON DURAK",
+                "durak_id": 1785,
+                "durak_kod": 1001,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 51,
+                "hat_kod": "117"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1715 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421756.782078201,
+                    5013635.02787926
+                ]
+            },
+            "properties": {
+                "id": 45847,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "HANİFE HATUN CAMİİ 2",
+                "durak_id": 148,
+                "durak_kod": 1062,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 3,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422273.861112936,
+                    5013592.247348111
+                ]
+            },
+            "properties": {
+                "id": 46098,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "SAHİL PERON",
+                "durak_id": 584,
+                "durak_kod": 1451,
+                "gd_mi": true,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 4,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422254.046243574,
+                    5013627.356873614
+                ]
+            },
+            "properties": {
+                "id": 45423,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "SAHİL PERONU BAŞLANGIÇ",
+                "durak_id": 2412,
+                "durak_kod": 1061,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 1,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422255.270757973,
+                    5011822.331022323
+                ]
+            },
+            "properties": {
+                "id": 32078,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "BOZTEPE AİLE SAĞLIĞI MERKEZİ",
+                "durak_id": 3813,
+                "durak_kod": 2666,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 9,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422302.804180542,
+                    5011651.831889064
+                ]
+            },
+            "properties": {
+                "id": 29601,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "KEMİK HASTANESİ",
+                "durak_id": 3137,
+                "durak_kod": 2668,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 11,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423226.755954126,
+                    5011741.358310287
+                ]
+            },
+            "properties": {
+                "id": 29542,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "AHİ EVREN DEDE TÜRBESİ",
+                "durak_id": 3720,
+                "durak_kod": 2725,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 18,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422806.970154344,
+                    5010734.049251205
+                ]
+            },
+            "properties": {
+                "id": 34356,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "KARADENİZ CADDESİ",
+                "durak_id": 3824,
+                "durak_kod": 2718,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 23,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422821.330368657,
+                    5010414.327870905
+                ]
+            },
+            "properties": {
+                "id": 37988,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "ÇUKURÇAYIR ANA OKULU",
+                "durak_id": 3147,
+                "durak_kod": 2720,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 24,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423032.503442692,
+                    5010472.283964677
+                ]
+            },
+            "properties": {
+                "id": 34229,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "VADİKENT 4.ETAP",
+                "durak_id": 4355,
+                "durak_kod": 1893,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 25,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423564.16533072,
+                    5010779.619252198
+                ]
+            },
+            "properties": {
+                "id": 29508,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "1001 PIRLANTA EVLERİ SİTESİ",
+                "durak_id": 4412,
+                "durak_kod": 1897,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 29,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4421373.397751909,
+                    5013657.893412776
+                ]
+            },
+            "properties": {
+                "id": 32668,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "BÜYÜKŞEHİR İTFAİYE",
+                "durak_id": 1747,
+                "durak_kod": 1462,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 2,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422730.827622642,
+                    5013088.483876688
+                ]
+            },
+            "properties": {
+                "id": 29582,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "MEYDAN PARK",
+                "durak_id": 3959,
+                "durak_kod": 1347,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 5,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422742.850127648,
+                    5012565.128569918
+                ]
+            },
+            "properties": {
+                "id": 30207,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "TAKSİM YOKUŞU",
+                "durak_id": 3316,
+                "durak_kod": 2664,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 6,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422450.413825334,
+                    5012329.421374173
+                ]
+            },
+            "properties": {
+                "id": 30225,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "GÖZAÇAN CAMİİ",
+                "durak_id": 2304,
+                "durak_kod": 2338,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 7,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422131.260845229,
+                    5011628.23362866
+                ]
+            },
+            "properties": {
+                "id": 37669,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "AHMET RASİM KARANİS PARKI",
+                "durak_id": 2999,
+                "durak_kod": 2667,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 10,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423163.749122336,
+                    5011447.561345353
+                ]
+            },
+            "properties": {
+                "id": 40118,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "İDEAL EVLER",
+                "durak_id": 1261,
+                "durak_kod": 2714,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 19,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423116.549658241,
+                    5011312.317433286
+                ]
+            },
+            "properties": {
+                "id": 34358,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "AKCİTY 1 SİTESİ 2",
+                "durak_id": 1240,
+                "durak_kod": 1588,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 20,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423053.542826452,
+                    5011129.586280459
+                ]
+            },
+            "properties": {
+                "id": 36008,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "KARADENİZ CADDESİ YOL AYRIMI",
+                "durak_id": 1911,
+                "durak_kod": 2716,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 21,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422832.239678755,
+                    5010930.340970916
+                ]
+            },
+            "properties": {
+                "id": 39031,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "AK YAŞAM RESİDENCE",
+                "durak_id": 211,
+                "durak_kod": 2717,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 22,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423173.879195999,
+                    5010421.111517977
+                ]
+            },
+            "properties": {
+                "id": 41225,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "AYIŞIĞI İKİLİ BLOKLAR",
+                "durak_id": 388,
+                "durak_kod": 1894,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 26,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423173.099959563,
+                    5010782.273821944
+                ]
+            },
+            "properties": {
+                "id": 35625,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "AYIŞIĞI 1 EVLERİ",
+                "durak_id": 2727,
+                "durak_kod": 1895,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 27,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423213.174976249,
+                    5010914.413320772
+                ]
+            },
+            "properties": {
+                "id": 40665,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "AYIŞIĞI 2 EVLERİ",
+                "durak_id": 2276,
+                "durak_kod": 2724,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 28,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422317.387033836,
+                    5011595.638625671
+                ]
+            },
+            "properties": {
+                "id": 41460,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "KEMİK HASTANESİ ÜSTÜ",
+                "durak_id": 4189,
+                "durak_kod": 2669,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 12,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422331.858567639,
+                    5011481.925692526
+                ]
+            },
+            "properties": {
+                "id": 41463,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "İPEKYOLU CADDESİ 1",
+                "durak_id": 3380,
+                "durak_kod": 2671,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 13,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422519.543229117,
+                    5011082.834793858
+                ]
+            },
+            "properties": {
+                "id": 41465,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "ÇUKURÇAYIR EVRENDEDE CADDESİ",
+                "durak_id": 5159,
+                "durak_kod": 3489,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 15,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423055.323938305,
+                    5011457.590412666
+                ]
+            },
+            "properties": {
+                "id": 41467,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "ERENLER SOKAK",
+                "durak_id": 5161,
+                "durak_kod": 3491,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 17,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422238.127556392,
+                    5010928.571230724
+                ]
+            },
+            "properties": {
+                "id": 41464,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "İPEKYOLU CADDESİ 2",
+                "durak_id": 546,
+                "durak_kod": 2673,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 14,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422860.737468398,
+                    5011322.493845408
+                ]
+            },
+            "properties": {
+                "id": 41466,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "MAVİ ŞEHİR SİTESİ",
+                "durak_id": 5125,
+                "durak_kod": 2712,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 16,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422455.311882929,
+                    5012171.598098215
+                ]
+            },
+            "properties": {
+                "id": 41520,
+                "hat_id": 43,
+                "hat_guzergah_ad": "SAHİL PERON KALKIŞ",
+                "hat_guzergah_id": 75,
+                "ad": "BOZTEPE İLKÖĞRETİM OKULU",
+                "durak_id": 3178,
+                "durak_kod": 1580,
+                "gd_mi": false,
+                "yon": 1,
+                "yon_str": "G",
+                "sira": 8,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422273.861112936,
+                    5013592.247348111
+                ]
+            },
+            "properties": {
+                "id": 46099,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "SAHİL PERON",
+                "durak_id": 584,
+                "durak_kod": 1451,
+                "gd_mi": true,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 28,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422754.649993672,
+                    5012564.538557287
+                ]
+            },
+            "properties": {
+                "id": 34508,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "TAKSİM YOKUŞU",
+                "durak_id": 3467,
+                "durak_kod": 1346,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 24,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422461.211815941,
+                    5012174.253048023
+                ]
+            },
+            "properties": {
+                "id": 41444,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "BOZTEPE İLK ÖĞRETİM OKULU",
+                "durak_id": 1827,
+                "durak_kod": 2665,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 22,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423048.644768857,
+                    5011463.637355306
+                ]
+            },
+            "properties": {
+                "id": 41508,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "ERENLER SOKAK",
+                "durak_id": 5162,
+                "durak_kod": 3492,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 13,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422856.396008257,
+                    5011327.950766443
+                ]
+            },
+            "properties": {
+                "id": 41509,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "MAVİ ŞEHİR SİTESİ",
+                "durak_id": 4437,
+                "durak_kod": 2713,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 14,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422516.092324902,
+                    5011085.194484955
+                ]
+            },
+            "properties": {
+                "id": 41510,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "ÇUKURÇAYIR EVRENDEDE CADDESİ",
+                "durak_id": 5160,
+                "durak_kod": 3490,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 15,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422240.019987735,
+                    5010937.272456441
+                ]
+            },
+            "properties": {
+                "id": 41511,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "İPEKYOLU CADDESİ 2",
+                "durak_id": 680,
+                "durak_kod": 2674,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 16,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422338.092459124,
+                    5011474.403872247
+                ]
+            },
+            "properties": {
+                "id": 41512,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "İPEKYOLU CADDESİ 1",
+                "durak_id": 2893,
+                "durak_kod": 2672,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 17,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422321.394535504,
+                    5011581.774720871
+                ]
+            },
+            "properties": {
+                "id": 41513,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "KEMİK HASTANESİ ÜSTÜ",
+                "durak_id": 2679,
+                "durak_kod": 2670,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 18,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422310.373905916,
+                    5011665.548404244
+                ]
+            },
+            "properties": {
+                "id": 30635,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "KEMİK HASTANESİ",
+                "durak_id": 1967,
+                "durak_kod": 1583,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 19,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422130.370289303,
+                    5011641.507643091
+                ]
+            },
+            "properties": {
+                "id": 37921,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "AHMET RASİM KARANİS PARKI",
+                "durak_id": 3319,
+                "durak_kod": 1582,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 20,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422265.512151126,
+                    5011813.923988061
+                ]
+            },
+            "properties": {
+                "id": 30168,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "BOZTEPE AİLE SAĞLIĞI MERKEZİ",
+                "durak_id": 904,
+                "durak_kod": 1581,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 21,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422506.296209712,
+                    5012379.128861721
+                ]
+            },
+            "properties": {
+                "id": 36781,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "GÖZAÇAN CAMİİ",
+                "durak_id": 309,
+                "durak_kod": 1345,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 23,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423478.338003319,
+                    5012406.563963695
+                ]
+            },
+            "properties": {
+                "id": 44720,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "ESENTEPE AİLE YÖNLENDİRME MERKEZİ",
+                "durak_id": 4236,
+                "durak_kod": 1035,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 26,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423270.281875026,
+                    5012895.098743681
+                ]
+            },
+            "properties": {
+                "id": 43807,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "ÇÖMLEKÇİ",
+                "durak_id": 4029,
+                "durak_kod": 1060,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 27,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423578.748184015,
+                    5010783.158678688
+                ]
+            },
+            "properties": {
+                "id": 40643,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "1001 PIRLANTA EVLERİ SİTESİ",
+                "durak_id": 839,
+                "durak_kod": 2899,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 1,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423213.28629574,
+                    5010915.150711407
+                ]
+            },
+            "properties": {
+                "id": 40530,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "AYIŞIĞI 2 EVLERİ",
+                "durak_id": 3502,
+                "durak_kod": 1896,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 2,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423151.170019878,
+                    5010792.892108181
+                ]
+            },
+            "properties": {
+                "id": 40730,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "AYIŞIĞI 1 EVLERİ",
+                "durak_id": 3036,
+                "durak_kod": 2723,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 3,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423175.103710398,
+                    5010436.743418375
+                ]
+            },
+            "properties": {
+                "id": 39134,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "AYIŞIĞI İKİLİ BLOKLAR",
+                "durak_id": 1365,
+                "durak_kod": 2722,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 4,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423023.486563937,
+                    5010476.708108163
+                ]
+            },
+            "properties": {
+                "id": 36888,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "VADİKENT 4.ETAP",
+                "durak_id": 2078,
+                "durak_kod": 2721,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 5,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422828.454816068,
+                    5010430.549643513
+                ]
+            },
+            "properties": {
+                "id": 32623,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "ÇUKURÇAYIR ANA OKULU",
+                "durak_id": 1414,
+                "durak_kod": 1591,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 6,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422820.551132222,
+                    5010730.214891932
+                ]
+            },
+            "properties": {
+                "id": 36061,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "KARADENİZ CADDESİ",
+                "durak_id": 677,
+                "durak_kod": 2719,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 7,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422845.486698159,
+                    5010923.409490332
+                ]
+            },
+            "properties": {
+                "id": 38493,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "AK YAŞAM RESİDENCE",
+                "durak_id": 1008,
+                "durak_kod": 1590,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 8,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423059.665398446,
+                    5011115.575558993
+                ]
+            },
+            "properties": {
+                "id": 33775,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "KARADENİZ CADDESİ YOL AYRIMI",
+                "durak_id": 2473,
+                "durak_kod": 1589,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 9,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423134.360776767,
+                    5011309.515234716
+                ]
+            },
+            "properties": {
+                "id": 29994,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "AKCİTY 1 SİTESİ 2",
+                "durak_id": 4150,
+                "durak_kod": 2715,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 10,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423175.994266325,
+                    5011452.870850288
+                ]
+            },
+            "properties": {
+                "id": 40171,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "İDEAL EVLER",
+                "durak_id": 2499,
+                "durak_kod": 1587,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 11,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4423239.446376077,
+                    5011738.261006824
+                ]
+            },
+            "properties": {
+                "id": 34535,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "AHİ EVREN DEDE TÜRBESİ",
+                "durak_id": 417,
+                "durak_kod": 1586,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 12,
+                "hat_kod": "141-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "coordinates": [
+                    4422990.757997148,
+                    5012619.709599447
+                ]
+            },
+            "properties": {
+                "id": 30510,
+                "hat_id": 43,
+                "hat_guzergah_ad": "PİKNİK ALANI DÖNÜŞ",
+                "hat_guzergah_id": 76,
+                "ad": "BARO",
+                "durak_id": 1248,
+                "durak_kod": 1034,
+                "gd_mi": false,
+                "yon": 2,
+                "yon_str": "D",
+                "sira": 25,
+                "hat_kod": "141-A"
+            }
+        }
+    ]
+}

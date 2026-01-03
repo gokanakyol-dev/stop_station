@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🚏 Stop Station</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🚏 Stop Station</h1>
+      <p>GPS verisinden otobüs durağı tespiti</p>
+    </header>
+
+    <div class="card">
+      <h2>📂 Veri Yükleme</h2>
+      <div class="form-group">
+        <label>GPS CSV Dosyası</label>
+        <input type="file" id="csvFile" accept=".csv">
+        <small>Sütunlar: SeferId, Plaka, lineId, routeId, Enlem, Boylam, KonumZamani, Hiz</small>
+      </div>
+
+      <div class="form-group">
+        <label>Durak JSON</label>
+        <input type="file" id="stopsFile" accept=".json">
+        <small>direction/yon property ile gidiş/dönüş bilgisi olmalı</small>
+      </div>
+
+      <div class="form-group">
+        <label>Yön Filtresi</label>
+        <select id="directionFilter">
+          <option value="all">Tümü</option>
+          <option value="gidis">Sadece Gidiş</option>
+          <option value="donus">Sadece Dönüş</option>
+        </select>
+      </div>
+
+      <div class="button-group">
+        <button id="btnPipeline" class="btn-primary" disabled>
+          <span class="btn-text">🔄 Pipeline Çalıştır</span>
+          <span class="loader" style="display:none;">⏳ Yükleniyor...</span>
+        </button>
+        <button id="btnClear" class="btn-secondary">🗑️ Temizle</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>🗺️ Harita</h2>
+      <div id="map"></div>
+    </div>
+
+    <div class="card">
+      <h2>📋 Log</h2>
+      <pre id="output">Hazır. CSV ve durak JSON yükleyin.</pre>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>
