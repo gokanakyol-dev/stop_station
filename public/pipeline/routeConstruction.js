@@ -150,73 +150,224 @@ export function computeRouteSkeleton(points) {
     skeleton.push({ ...cleanedPoints[i], distance: cumulativeDist, bearing: bear });
   }
   
-  const virtualStops = [];
+  const totalDistance = skeleton.length > 0 ? skeleton[skeleton.length - 1].distance : 0;
   
-  if (skeleton.length === 0) {
-    return { skeleton, virtualStops };
+  console.log(`Route skeleton: ${skeleton.length} points, ${(totalDistance/1000).toFixed(2)}km`);
+  
+  return { skeleton };
+}
+
+// GPS verilerinden tespit edilen durakları (durma noktalarını) işle
+export function processDetectedStops(realStops, skeleton) {
+  if (!realStops || realStops.length === 0) {
+    console.log('processDetectedStops: durak verisi boş');
+    return { detectedStops: [], filteredStops: [] };
   }
   
-  const totalDistance = skeleton[skeleton.length - 1].distance;
+  const MAX_DISTANCE_THRESHOLD = 300; // Maksimum 300m uzaklık
+  const detectedStops = []; // GPS'den tespit edilen duraklar
+  const filteredStops = []; // Filtrelenenler
+  let filteredBySide = 0;
   
-  // İlk konum (0m)
-  virtualStops.push({
-    lat: skeleton[0].lat,
-    lon: skeleton[0].lon,
-    distance: 0,
-    bearing: skeleton[0].bearing,
-    isVirtual: true,
-    stopNumber: 0,
-    isStart: true
-  });
-  
-  // Her 500m'de sanal durak ekle
-  let stopNumber = 1;
-  let nextStopDistance = 500;
-  
-  for (let i = 0; i < skeleton.length - 1; i++) {
-    const p1 = skeleton[i];
-    const p2 = skeleton[i + 1];
+  for (const stop of realStops) {
+    if (!Number.isFinite(stop.lat) || !Number.isFinite(stop.lon)) {
+      ungroupedStops.push(stop);
+      continue;
+    }
     
-    // Bu segment içinde 500m sınırlarını bul
-    while (nextStopDistance > p1.distance && nextStopDistance <= p2.distance) {
-      // Toplam mesafeyi geçmemek için kontrol
-      if (nextStopDistance >= totalDistance) break;
+    // Durma noktasını rotaya project et (en yakın skeleton noktası)
+    let minDistToRoute = Infinity;
+    let closestSkeletonIndex = -1;
+    let projectedDistance = 0;
+    
+    for (let i = 0; i < skeleton.length; i++) {
+      const dist = haversineDistance(stop.lat, stop.lon, skeleton[i].lat, skeleton[i].lon);
+      if (dist < minDistToRoute) {
+        minDistToRoute = dist;
+        closestSkeletonIndex = i;
+        projectedDistance = skeleton[i].distance;
+      }
+    }
+    
+    // Eğer rotaya çok uzaksa, filtrele
+    if (minDistToRoute > MAX_DISTANCE_THRESHOLD) {
+      console.log(`Stop '${stop.name || stop.id}' rotaya çok uzak (${minDistToRoute.toFixed(0)}m), atlanıyor`);
+      filteredStops.push(stop);
+      continue;
+    }
+    
+    // Rotanın sağında mı solunda mı kontrolü (cross product)
+    // Rota segmentini bul (mevcut nokta ile bir sonraki nokta)
+    let segmentIndex = closestSkeletonIndex;
+    if (segmentIndex >= skeleton.length - 1) {
+      segmentIndex = skeleton.length - 2; // Son nokta için bir önceki segment
+    }
+    
+    const p1 = skeleton[segmentIndex];
+    const p2 = skeleton[segmentIndex + 1];
+    
+    // Cross product ile yön hesapla
+    // Pozitif = sağ taraf (karşı yön), Negatif = sol taraf (aynı yön)
+    const dx = p2.lon - p1.lon;
+    const dy = p2.lat - p1.lat;
+    const crossProduct = dx * (stop.lat - p1.lat) - dy * (stop.lon - p1.lon);
+    
+    // Sağ taraftaki noktaları filtrele (crossProduct > 0 = karşı yön)
+    if (crossProduct > 0) {
+      console.log(`Stop '${stop.name || stop.id}' rotanın sağ tarafında (karşı yönde), atlanıyor`);
+      filteredStops.push(stop);
+      filteredBySide++;
+      continue;
+    }
+    
+    // Tespit edilen durağı kaydet
+    detectedStops.push({
+      ...stop,
+      distanceAlongRoute: projectedDistance,
+      distanceToRoute: minDistToRoute
+    });
+  }
+  
+  // Rota mesafesine göre sırala
+  detectedStops.sort((a, b) => a.distanceAlongRoute - b.distanceAlongRoute);
+  
+  // Her durağa sıra numarası ver
+  for (let i = 0; i < detectedStops.length; i++) {
+    detectedStops[i].sequenceNumber = i + 1;
+  }
+  
+  console.log(`processDetectedStops: ${detectedStops.length} durak tespit edildi, ${filteredStops.length} filtrelendi (${filteredBySide} karşı yönde)`);
+  
+  // Detaylı tablo formatında yazdır
+  console.table(detectedStops.map(s => ({
+    'Sıra': s.sequenceNumber,
+    'Durak Adı': s.name || s.id || '-',
+    'Rotaya Uzaklık': `${s.distanceToRoute.toFixed(0)}m`,
+    'Rota Mesafesi': `${(s.distanceAlongRoute / 1000).toFixed(2)}km`
+  })));
+  
+  return { detectedStops, filteredStops };
+}
+
+// Gerçek duraklar ile durma noktalarını karşılaştır
+export function compareRealStopsWithGroupedStops(realStops, groupedStops) {
+  if (!realStops || realStops.length === 0) {
+    return { message: 'Gerçek durak verisi yok', matches: [] };
+  }
+  
+  if (!groupedStops || groupedStops.length === 0) {
+    return { message: 'Durma noktası verisi yok', matches: [] };
+  }
+  
+  const MATCH_THRESHOLD = 100; // 100m içindeki durma noktaları eşleşme sayılır
+  const matches = [];
+  const unmatchedRealStops = [];
+  const unmatchedGroupedStops = [...groupedStops]; // Kopyasını al
+  
+  for (const realStop of realStops) {
+    if (!Number.isFinite(realStop.lat) || !Number.isFinite(realStop.lon)) {
+      continue;
+    }
+    
+    // En yakın durma noktasını bul
+    let closestStop = null;
+    let minDistance = Infinity;
+    let closestIndex = -1;
+    
+    for (let i = 0; i < groupedStops.length; i++) {
+      const groupedStop = groupedStops[i];
+      const dist = haversineDistance(realStop.lat, realStop.lon, groupedStop.lat, groupedStop.lon);
       
-      const segmentDist = p2.distance - p1.distance;
-      if (segmentDist === 0) break; // Aynı noktalar, ilerle
-      
-      const ratio = (nextStopDistance - p1.distance) / segmentDist;
-      
-      // İnterpolate lat/lon
-      const lat = p1.lat + (p2.lat - p1.lat) * ratio;
-      const lon = p1.lon + (p2.lon - p1.lon) * ratio;
-      
-      virtualStops.push({
-        lat, lon,
-        distance: nextStopDistance,
-        bearing: p1.bearing,
-        isVirtual: true,
-        stopNumber: stopNumber
+      if (dist < minDistance) {
+        minDistance = dist;
+        closestStop = groupedStop;
+        closestIndex = i;
+      }
+    }
+    
+    if (minDistance <= MATCH_THRESHOLD && closestStop) {
+      // Eşleşme var
+      matches.push({
+        realStop: {
+          name: realStop.name || realStop.id,
+          direction: realStop.direction,
+          sira: realStop.sira,
+          lat: realStop.lat,
+          lon: realStop.lon
+        },
+        groupedStop: {
+          name: closestStop.name || closestStop.id,
+          sequenceNumber: closestStop.sequenceNumber,
+          virtualStopNumber: closestStop.virtualStopNumber,
+          lat: closestStop.lat,
+          lon: closestStop.lon
+        },
+        distance: minDistance,
+        isMatch: true
       });
       
-      stopNumber++;
-      nextStopDistance += 500;
+      // Bu durma noktasını eşleşmemiş listesinden çıkar
+      const idx = unmatchedGroupedStops.findIndex(s => s.sequenceNumber === closestStop.sequenceNumber);
+      if (idx !== -1) {
+        unmatchedGroupedStops.splice(idx, 1);
+      }
+    } else {
+      // Eşleşme yok
+      unmatchedRealStops.push({
+        name: realStop.name || realStop.id,
+        direction: realStop.direction,
+        sira: realStop.sira,
+        closestDistance: minDistance,
+        lat: realStop.lat,
+        lon: realStop.lon
+      });
     }
   }
   
-  // Son konum (totalDistance)
-  const lastPoint = skeleton[skeleton.length - 1];
-  virtualStops.push({
-    lat: lastPoint.lat,
-    lon: lastPoint.lon,
-    distance: totalDistance,
-    bearing: lastPoint.bearing,
-    isVirtual: true,
-    stopNumber: stopNumber,
-    isEnd: true
-  });
+  // İstatistikler
+  const distances = matches.map(m => m.distance);
+  const stats = {
+    totalRealStops: realStops.length,
+    totalGroupedStops: groupedStops.length,
+    matchedCount: matches.length,
+    unmatchedRealStops: unmatchedRealStops.length,
+    unmatchedGroupedStops: unmatchedGroupedStops.length,
+    matchRate: ((matches.length / realStops.length) * 100).toFixed(1) + '%',
+    averageDistance: distances.length > 0 ? (distances.reduce((a, b) => a + b, 0) / distances.length).toFixed(1) + 'm' : 'N/A',
+    minDistance: distances.length > 0 ? Math.min(...distances).toFixed(1) + 'm' : 'N/A',
+    maxDistance: distances.length > 0 ? Math.max(...distances).toFixed(1) + 'm' : 'N/A'
+  };
   
-  console.log(`Route skeleton: ${skeleton.length} points, ${virtualStops.length} virtual stops (0m to ${(totalDistance/1000).toFixed(2)}km)`);
+  console.log('\n🔍 GERÇEK DURAKLAR vs DURMA NOKTALARI KARŞILAŞTIRMASI');
+  console.log('═'.repeat(60));
+  console.log('İstatistikler:', stats);
+  console.log('\n📊 Eşleşen Duraklar (', matches.length, 'adet):');
+  console.table(matches.map(m => ({
+    'Gerçek Durak': m.realStop.name,
+    'Durma Noktası': m.groupedStop.name,
+    'Mesafe Farkı': m.distance.toFixed(1) + 'm',
+    'Sıra No': m.groupedStop.sequenceNumber,
+    'Sanal Durak': '#' + m.groupedStop.virtualStopNumber
+  })));
   
-  return { skeleton, virtualStops };
+  if (unmatchedRealStops.length > 0) {
+    console.log('\n❌ Eşleşmeyen Gerçek Duraklar (', unmatchedRealStops.length, 'adet):');
+    console.table(unmatchedRealStops.map(s => ({
+      'Durak Adı': s.name,
+      'Yön': s.direction,
+      'En Yakın Mesafe': s.closestDistance.toFixed(0) + 'm'
+    })));
+  }
+  
+  if (unmatchedGroupedStops.length > 0) {
+    console.log('\n⚠️ Gerçek Durağa Eşleşmeyen Durma Noktaları (', unmatchedGroupedStops.length, 'adet):');
+    console.table(unmatchedGroupedStops.slice(0, 10).map(s => ({
+      'Sıra': s.sequenceNumber,
+      'Ad': s.name || '-',
+      'Sanal Durak': '#' + s.virtualStopNumber,
+      'Rota Mesafesi': (s.distanceAlongRoute / 1000).toFixed(2) + 'km'
+    })));
+  }
+  
+  return { stats, matches, unmatchedRealStops, unmatchedGroupedStops };
 }

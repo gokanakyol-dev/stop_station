@@ -35,6 +35,7 @@
           <option value="gidis">Sadece Gidiş</option>
           <option value="donus">Sadece Dönüş</option>
         </select>
+        <small><strong>⚠️ Önemli:</strong> GPS verisi tek yön içeriyorsa (örn. sadece gidiş), pipeline çalıştırmadan önce o yönü seçin!</small>
       </div>
 
       <div class="button-group">
@@ -49,6 +50,11 @@
     <div class="card">
       <h2>🗺️ Harita</h2>
       <div id="map"></div>
+    </div>
+
+    <div class="card" id="comparisonCard" style="display: none;">
+      <h2>🔍 Gerçek Duraklar vs Tespit Edilen Duraklar</h2>
+      <div id="comparisonResults"></div>
     </div>
 
     <div class="card">

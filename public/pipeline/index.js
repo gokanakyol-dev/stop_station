@@ -4,7 +4,7 @@ import { cleanGPS } from './cleanGPS.js';
 import { segmentTrips } from './segmentation.js';
 import { computeSegmentHeadings, clusterByDirection } from './directionFilter.js';
 import { filterByRouteConsistency } from './routeFilter.js';
-import { buildRoute, snapToRoad, simplifyRoute, computeRouteSkeleton } from './routeConstruction.js';
+import { buildRoute, snapToRoad, simplifyRoute, computeRouteSkeleton, processDetectedStops, compareRealStopsWithGroupedStops } from './routeConstruction.js';
 import { haversineDistance } from './utils.js';
 
 function chunkEvenly(items, max) {
@@ -43,6 +43,9 @@ export async function runStep1Pipeline(gpsRecords, options = {}) {
     log.push({ timestamp: Date.now(), message: msg });
     if (alsoConsole) console.log(`[Pipeline] ${msg}`);
   };
+
+  // stops parametresini options'dan al
+  const stops = options.stops || [];
 
   step('1A - GPS Temizliği...');
   const { records: cleanedRecords, rejected } = cleanGPS(gpsRecords, options.clean);
@@ -100,9 +103,27 @@ export async function runStep1Pipeline(gpsRecords, options = {}) {
 
   const routeData = computeRouteSkeleton(skeleton);
   const routeSkeleton = routeData.skeleton;
-  const virtualStops = routeData.virtualStops;
   const totalDistance = routeSkeleton[routeSkeleton.length - 1]?.distance ?? 0;
-  step(`1E.4: ${routeSkeleton.length} nokta, ${(totalDistance / 1000).toFixed(2)} km, ${virtualStops.length} sanal durak`);
+  step(`1E.4: ${routeSkeleton.length} nokta, ${(totalDistance / 1000).toFixed(2)} km`);
+
+  // GPS verilerinden durakları tespit et
+  let stopDetection = null;
+  let stopComparison = null;
+  
+  if (stops && stops.length > 0) {
+    step('1F - Durak Tespiti (GPS Durma Noktaları)...');
+    step(`1F.1: GPS yönü: ${selected.meanHeading.toFixed(0)}°, ${stops.length} gerçek durak karşılaştırılacak`);
+    
+    stopDetection = processDetectedStops(stops, routeSkeleton);
+    step(`1F.2: ${stopDetection.detectedStops.length} durak tespit edildi, ${stopDetection.filteredStops.length} filtrelendi`);
+    
+    // Gerçek duraklar ile tespit edilen durakları karşılaştır
+    if (stopDetection.detectedStops.length > 0) {
+      step('1G - Gerçek Duraklar ile Karşılaştırma...');
+      stopComparison = compareRealStopsWithGroupedStops(stops, stopDetection.detectedStops);
+      step(`1G: ${stopComparison.stats.matchedCount} eşleşme bulundu (${stopComparison.stats.matchRate})`);
+    }
+  }
 
   return {
     log,
@@ -111,8 +132,12 @@ export async function runStep1Pipeline(gpsRecords, options = {}) {
       step1B: { segmentCount: segments.length },
       step1C: { clusterCount: clusters.length, selectedDirection: selected.meanHeading, dominantRatio },
       step1D: { dominantCount: dominant.length, rejectedCount: rejectedRoute.length, clusterCount },
-      step1E: { totalPoints: stats.totalPoints, deduplicatedPoints: stats.deduplicatedPoints, snappedPoints: snappedPoints.length, skeletonPoints: routeSkeleton.length, totalDistanceKm: totalDistance / 1000, matchInfo, virtualStops: virtualStops.length }
+      step1E: { totalPoints: stats.totalPoints, deduplicatedPoints: stats.deduplicatedPoints, snappedPoints: snappedPoints.length, skeletonPoints: routeSkeleton.length, totalDistanceKm: totalDistance / 1000, matchInfo },
+      step1F: stopDetection ? { detectedStopsCount: stopDetection.detectedStops.length, filteredStopsCount: stopDetection.filteredStops.length } : null,
+      step1G: stopComparison ? stopComparison.stats : null
     },
-    route: { raw: routePoints, snapped: snappedPoints, skeleton: routeSkeleton, virtualStops }
+    route: { raw: routePoints, snapped: snappedPoints, skeleton: routeSkeleton },
+    stops: stopDetection,
+    comparison: stopComparison
   };
 }
